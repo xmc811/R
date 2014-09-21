@@ -1,1 +1,1 @@
-### This is a sub-folder containing the example commands used in Duke Statistics Course
+### This is a sub-folder containing the example commands used in Duke Statistics Coursera
