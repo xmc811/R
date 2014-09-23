@@ -1,6 +1,7 @@
 
 
 ## This file contains the codes simulating random sampling process
+## ames_estate.RData used
 
 load(url("http://www.openintro.org/stat/data/ames.RData"))
 
