@@ -7,19 +7,26 @@ present
 # show the general structure of the data
 
 dim(present)
+# returns [1] 63  3
 # show the dimension of the dataframe (rows and columns)
+
+dim(1)
+dim(1:8)
+# returns NULL
 
 names(present)
 # show the names of variables (column names)
 
+head(present,10)
+# first 10 rows, if no n, default is 6
+
+tail(present)
+# show the last 6 records
+
+
 present$boys
 # show a vector containing data of one variable
 
-plot(x=present$year, y=present$girls)
-# plot between a numeric data and a categorical data (two variables)
-
-plot(x = present$year, y = present$girls, type = "l")
-# plot line graph instead of scatterplot
 
 present$boys/present$girls
 # data manipulation of two columns, generate a new numeric vector
@@ -35,11 +42,6 @@ source("http://www.openintro.org/stat/data/cdc.R")
 
 cdc
 
-head(cdc)
-# show the first 6 records
-
-tail(cdc)
-# show the last 6 records
 
 summary(cdc$weight)
 # summary of a numeric variable (give the centerness of data)
