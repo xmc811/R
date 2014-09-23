@@ -1,3 +1,5 @@
+#These are two examples in Duke statistics course, very basic command for processing dataset.
+
 ## 1st dataset
 
 source("http://www.openintro.org/stat/data/present.R")
