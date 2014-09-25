@@ -1,5 +1,6 @@
 
 ## This example is for analyzing data from multiple csv files
+## data in data_home_multiple_csv folder
 
 
 ## 1st function
