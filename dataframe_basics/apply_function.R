@@ -75,6 +75,9 @@ sapply(p,mean,simplify=FALSE)
 # return back to a list of 3 vectors
 ## thus lapply and sapply are very similar
 
+## 3rd function
+## tapply
+
 
 
 
