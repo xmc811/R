@@ -77,6 +77,17 @@ sapply(p,mean,simplify=FALSE)
 
 ## 3rd function
 ## tapply
+## A dataset that can be broken up into groups, We want to break it up into groups
+## Within each group, we want to apply a function
+
+paper <- data.frame(quant=c(sample(5:25,20,replace=TRUE),sample(4:20,20,replace=TRUE),
+                     +      sample(3:15,20,replace=TRUE)),inst=gl(3,20,labels=c("BCM","UT","Rice")))
+
+## generate a dataframe simulating publication IFs in three institutions
+
+stat <- tapply(paper$quant,paper$inst,mean)
+## calculate the average IF per institution
+## Note: the first parameter should be a specific variable instead of the whole dataframe
 
 
 
