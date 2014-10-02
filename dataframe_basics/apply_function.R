@@ -129,3 +129,30 @@ paper.stat <- lapply(paper.sp, function(x) mean(x[,"quant"]))
 
 
 
+
+## split can also subset data by multi layers
+
+gender <- factor(rep(c("M","F"),each=90))
+inst <- factor(rep(c("BCM","UT","Rice"),each=30,times=2))
+field <- factor(rep(c("gen","biochem","immuno"),each=10,times=6))
+
+type <- interaction(gender,inst,field)
+
+## this method is used to generate multiple factor lists
+## type is a factor vector with 18 levels (10 elements each level)
+
+## be careful when dealing with multiple layers of factors
+
+publication <- sample(seq(1,25,by=0.1),180)
+
+data <- data.frame(publication=publication,gender=gender,inst=inst,field)
+
+subdata <- split(data,list(gender,inst,field))
+
+pub.stat <- lapply(subdata,function(x) mean(x[,"publication"]))
+
+## theoretically, by this manipulation, we can easily handle the dataset with multiple layers
+## of factors
+
+
+
