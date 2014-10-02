@@ -75,6 +75,11 @@ sapply(p,mean,simplify=FALSE)
 # return back to a list of 3 vectors
 ## thus lapply and sapply are very similar
 
+
+
+
+
+
 ## 3rd function
 ## tapply
 ## A dataset that can be broken up into groups, We want to break it up into groups
@@ -90,6 +95,37 @@ stat <- tapply(paper$quant,paper$inst,mean)
 ## Note: the first parameter should be a specific variable instead of the whole dataframe
 
 
+
+
+## 4th function
+
+## mapply
+
+## this function, rather than sapply, extend the parameters to one element in multiple lists
+## list numbers should be less than parameter numbers (including triple dot)
+## thus alowing the lists can be passed to parameters
+
+## list of random noise
+
+noise <- mapply(rnorm,seq(10,20,by=5),rep(70,3),seq(5,15,by=5))
+## generate a list of 3 set variables
+
+
+
+
+
+
+## 5th function
+
+## similar to tapply, but do not apply the functions
+
+paper.sp <- split(paper,paper$inst)
+
+
+paper.stat <- lapply(paper.sp, function(x) mean(x[,"quant"]))
+
+## for a list of vectors, it's easy to directly apply functions
+## for a list of dataframes, usually anonymous functions are needed.
 
 
 
