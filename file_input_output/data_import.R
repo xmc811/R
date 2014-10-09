@@ -90,6 +90,19 @@ rootNode[[1]][[1]]
 # rootNode -> food -> name
 
 
+xmlSApply(rootNode,xmlValue)
+# get the values of all the sub-nodes of XML
+# similar to lapply in R
+
+
+
+
+xpathSApply(rootNode,"//name",xmlValue)
+
+# to use this function, we need to know about XPath language
+# access all the nodes that corresponds with title name and get the value
+
+xpathSApply(rootNode,"//price",xmlValue)
 
 
 
