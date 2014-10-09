@@ -118,3 +118,61 @@ teams<-xpathSApply(htmlDoc,"//li[@class='team-name']",xmlValue)
 # accessing two types of objects in the XML data
 
 
+
+
+
+
+
+
+install.packages("rjson")
+library(rjson)
+
+
+library(jsonlite)
+# JSON is another form of data storage of webpages
+
+jsonUrl<-"http://kassiesa.home.xs4all.nl/bert/uefa/data/method4/match2015/data.json"
+
+jsonData <- fromJSON(jsonUrl)
+
+
+
+
+
+
+install.packages("data.table")
+library(data.table)
+
+DT <- data.table(x=letters,y=rnorm(26),z=rnorm(26,sd=2))
+
+DT[2,]
+DT[DT$y>=0]
+# the subsetting methods are similar to dataframe
+
+DT[c(2,3)]
+# data.table has a different subset rule when only using one index number
+# it returns rows instead of columns
+
+DT[,list(sum(y),mean(z))]
+# in data.table indexing, a comma means separation of expressions
+
+DT[,w:=z*y]
+# directly add new columns by expressions, very convenient
+
+
+DT2 <- DT
+DT[,y:=y+2]
+# if we do some data manipulation in DT after copying DT to DT2, the data in DT2 will also be changed
+# we should be careful about this
+
+
+DT[,u:={tmp=y-z;u=tmp*w}]
+# the expression can also be used to perform complex manipulations like functions with multiple steps
+# which is a very handy function of data.table
+# also logical evaluations
+
+
+
+
+
+
