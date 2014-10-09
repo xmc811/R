@@ -106,3 +106,9 @@ xpathSApply(rootNode,"//price",xmlValue)
 
 
 
+htmlUrl<-c("http://espn.go.com/nfl/team/_/name/bal/baltimore-ravens")
+htmlDoc<-htmlTreeParse(htmlUrl)
+
+scores<-xpathApply(htmlDoc,"//li[@class='score']",xmlValue)
+teams<-xpathApply(htmlDoc,"//li[@class='team-name']",xmlValue)
+
