@@ -55,10 +55,19 @@ datexlsxDownloaded<-date()
 
 
 
+
+install.packages("xlsx", repos="http://cran.stat.auckland.ac.nz")
+# this can be used for installing xlsx package
+
+
 libary(xlsx)
 
 read.xlsx("./GetData/camara.csv",sheetIndex=1,header=TRUE)
 # this function is used to read data from xlsx, contains some useful parameters
+
+install.packages('XML')
+# this can install the XML package
+
 
 
 
