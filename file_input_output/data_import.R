@@ -66,8 +66,28 @@ read.xlsx("./GetData/camara.csv",sheetIndex=1,header=TRUE)
 # this function is used to read data from xlsx, contains some useful parameters
 
 install.packages('XML')
+library(XML)
 # this can install the XML package
 
+xmlUrl<-c("http://www.w3schools.com/xml/simple.xml")
+
+
+doc<-xmlTreeParse(xmlUrl,useInternal=TRUE)
+rootNode<-xmlRoot(doc)
+## accessing the top-level XMLNode object 
+
+xmlName(rootNode)
+## accessing the name of the node
+names(rootNode)
+## accessing all the nested elements in the root node
+
+rootNode[[1]]
+# accessing the first element of rootNode
+# it's similar to accessing the element of a list using double bracets
+
+rootNode[[1]][[1]]
+# first element of first element of the rootNode
+# rootNode -> food -> name
 
 
 
