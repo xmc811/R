@@ -107,8 +107,14 @@ xpathSApply(rootNode,"//price",xmlValue)
 
 
 htmlUrl<-c("http://espn.go.com/nfl/team/_/name/bal/baltimore-ravens")
-htmlDoc<-htmlTreeParse(htmlUrl)
+library(XML)
+htmlDoc<-htmlTreeParse(htmlUrl,useInternal=TRUE)
+# useInternal should be TRUE to get all the nodes inside the file
 
-scores<-xpathApply(htmlDoc,"//li[@class='score']",xmlValue)
-teams<-xpathApply(htmlDoc,"//li[@class='team-name']",xmlValue)
+
+
+scores<-xpathSApply(htmlDoc,"//li[@class='score']",xmlValue)
+teams<-xpathSApply(htmlDoc,"//li[@class='team-name']",xmlValue)
+# accessing two types of objects in the XML data
+
 
