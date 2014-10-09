@@ -172,6 +172,11 @@ DT[,u:={tmp=y-z;u=tmp*w}]
 # also logical evaluations
 
 
+setkey(DT,x)
+# this allows datatable to do search and match with key features (like SQL)
+# this function will be very handy in merging datatables with different column names
+
+
 
 
 
