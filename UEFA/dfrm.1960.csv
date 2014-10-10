@@ -1,80 +1,80 @@
-"home.team" "home.ctry" "away.team" "away.ctry" "match" "tournament" "round"
-"1" "Jeunesse d'Esch" "Lux" "LKS Lodz" "Pol" "5-0" "CHAMPIONS CUP" "Qualifying Round"
-"2" "Jeunesse d'Esch" "Lux" "LKS Lodz" "Pol" "1-2" "CHAMPIONS CUP" "Qualifying Round"
-"3" "Fenerbah�e" "Tur" "Csepel Budapest" "Hun" "1-1" "CHAMPIONS CUP" "Qualifying Round"
-"4" "Fenerbah�e" "Tur" "Csepel Budapest" "Hun" "3-2" "CHAMPIONS CUP" "Qualifying Round"
-"5" "OGC Nice" "Fra" "Shamrock Rovers" "Irl" "3-2" "CHAMPIONS CUP" "Qualifying Round"
-"6" "OGC Nice" "Fra" "Shamrock Rovers" "Irl" "1-1" "CHAMPIONS CUP" "Qualifying Round"
-"7" "Vorwärts Berlin" "GDR" "Wolverhampton Wanderers" "Eng" "2-1" "CHAMPIONS CUP" "Qualifying Round"
-"8" "Vorwärts Berlin" "GDR" "Wolverhampton Wanderers" "Eng" "0-2" "CHAMPIONS CUP" "Qualifying Round"
-"9" "Olympiakos Piraeus" "Gre" "AC Milan" "Ita" "2-2" "CHAMPIONS CUP" "Qualifying Round"
-"10" "Olympiakos Piraeus" "Gre" "AC Milan" "Ita" "1-3" "CHAMPIONS CUP" "Qualifying Round"
-"11" "CDNA Sofia" "Bul" "FC Barcelona" "Esp" "2-2" "CHAMPIONS CUP" "Qualifying Round"
-"12" "CDNA Sofia" "Bul" "FC Barcelona" "Esp" "2-6" "CHAMPIONS CUP" "Qualifying Round"
-"13" "Glasgow Rangers" "Sco" "Anderlecht" "Bel" "5-2" "CHAMPIONS CUP" "Qualifying Round"
-"14" "Glasgow Rangers" "Sco" "Anderlecht" "Bel" "2-0" "CHAMPIONS CUP" "Qualifying Round"
-"15" "Red Star Bratislava" "TCH" "FC Porto" "Por" "2-1" "CHAMPIONS CUP" "Qualifying Round"
-"16" "Red Star Bratislava" "TCH" "FC Porto" "Por" "2-0" "CHAMPIONS CUP" "Qualifying Round"
-"17" "Linfield Belfast" "Nir" "IFK Göteborg" "Swe" "2-1" "CHAMPIONS CUP" "Qualifying Round"
-"18" "Linfield Belfast" "Nir" "IFK Göteborg" "Swe" "1-6" "CHAMPIONS CUP" "Qualifying Round"
-"19" "Wiener Sportklub" "Aut" "Petrolul Ploiesti" "Rom" "0-0" "CHAMPIONS CUP" "Qualifying Round"
-"20" "Wiener Sportklub" "Aut" "Petrolul Ploiesti" "Rom" "2-1" "CHAMPIONS CUP" "Qualifying Round"
-"21" "Real Madrid" "Esp" "Jeunesse d'Esch" "Lux" "7-0" "CHAMPIONS CUP" "Round 1"
-"22" "Real Madrid" "Esp" "Jeunesse d'Esch" "Lux" "5-2" "CHAMPIONS CUP" "Round 1"
-"23" "Fenerbahçe" "Tur" "OGC Nice" "Fra" "2-1" "CHAMPIONS CUP" "Round 1"
-"24" "Fenerbahçe" "Tur" "OGC Nice" "Fra" "1-2" "CHAMPIONS CUP" "Round 1"
-"25" "Red Star Belgrade" "YUG" "Wolverhampton Wanderers" "Eng" "1-1" "CHAMPIONS CUP" "Round 1"
-"26" "Red Star Belgrade" "YUG" "Wolverhampton Wanderers" "Eng" "0-3" "CHAMPIONS CUP" "Round 1"
-"27" "AC Milan" "Ita" "FC Barcelona" "Esp" "0-2" "CHAMPIONS CUP" "Round 1"
-"28" "AC Milan" "Ita" "FC Barcelona" "Esp" "1-5" "CHAMPIONS CUP" "Round 1"
-"29" "Glasgow Rangers" "Sco" "Red Star Bratislava" "TCH" "4-3" "CHAMPIONS CUP" "Round 1"
-"30" "Glasgow Rangers" "Sco" "Red Star Bratislava" "TCH" "1-1" "CHAMPIONS CUP" "Round 1"
-"31" "Sparta Rotterdam" "Ned" "IFK Göteborg" "Swe" "3-1" "CHAMPIONS CUP" "Round 1"
-"32" "Sparta Rotterdam" "Ned" "IFK Göteborg" "Swe" "1-3" "CHAMPIONS CUP" "Round 1"
-"33" "B1909 Odense" "Den" "Wiener Sportklub" "Aut" "0-3" "CHAMPIONS CUP" "Round 1"
-"34" "B1909 Odense" "Den" "Wiener Sportklub" "Aut" "2-2" "CHAMPIONS CUP" "Round 1"
-"35" "Young Boys" "Sui" "Eintracht Frankfurt" "Ger" "1-4" "CHAMPIONS CUP" "Round 1"
-"36" "Young Boys" "Sui" "Eintracht Frankfurt" "Ger" "1-1" "CHAMPIONS CUP" "Round 1"
-"37" "OGC Nice" "Fra" "Real Madrid" "Esp" "3-2" "CHAMPIONS CUP" "Quarter Finals"
-"38" "OGC Nice" "Fra" "Real Madrid" "Esp" "0-4" "CHAMPIONS CUP" "Quarter Finals"
-"39" "FC Barcelona" "Esp" "Wolverhampton Wanderers" "Eng" "4-0" "CHAMPIONS CUP" "Quarter Finals"
-"40" "FC Barcelona" "Esp" "Wolverhampton Wanderers" "Eng" "5-2" "CHAMPIONS CUP" "Quarter Finals"
-"41" "Sparta Rotterdam" "Ned" "Glasgow Rangers" "Sco" "2-3" "CHAMPIONS CUP" "Quarter Finals"
-"42" "Sparta Rotterdam" "Ned" "Glasgow Rangers" "Sco" "1-0" "CHAMPIONS CUP" "Quarter Finals"
-"43" "Eintracht Frankfurt" "Ger" "Wiener Sportklub" "Aut" "2-1" "CHAMPIONS CUP" "Quarter Finals"
-"44" "Eintracht Frankfurt" "Ger" "Wiener Sportklub" "Aut" "1-1" "CHAMPIONS CUP" "Quarter Finals"
-"45" "Real Madrid" "Esp" "FC Barcelona" "Esp" "3-1" "CHAMPIONS CUP" "Semi Finals"
-"46" "Real Madrid" "Esp" "FC Barcelona" "Esp" "3-1" "CHAMPIONS CUP" "Semi Finals"
-"47" "Eintracht Frankfurt" "Ger" "Glasgow Rangers" "Sco" "6-1" "CHAMPIONS CUP" "Semi Finals"
-"48" "Eintracht Frankfurt" "Ger" "Glasgow Rangers" "Sco" "6-3" "CHAMPIONS CUP" "Semi Finals"
-"49" "Real Madrid" "Esp" "Eintracht Frankfurt" "Ger" "7-3" "CHAMPIONS CUP" "Final"
-"50" "Basel XI" "Sui" "FC Barcelona" "Esp" "1-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"51" "Basel XI" "Sui" "FC Barcelona" "Esp" "2-5" "INTER-CITIES FAIRS CUP" "Round 1"
-"52" "Internazionale" "Ita" "Olympique Lyon" "Fra" "7-0" "INTER-CITIES FAIRS CUP" "Round 1"
-"53" "Internazionale" "Ita" "Olympique Lyon" "Fra" "1-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"54" "København XI" "Den" "Chelsea" "Eng" "1-3" "INTER-CITIES FAIRS CUP" "Round 1"
-"55" "København XI" "Den" "Chelsea" "Eng" "1-4" "INTER-CITIES FAIRS CUP" "Round 1"
-"56" "Belgrade XI" "YUG" "Lausanne Sports" "Sui" "6-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"57" "Belgrade XI" "YUG" "Lausanne Sports" "Sui" "5-3" "INTER-CITIES FAIRS CUP" "Round 1"
-"58" "Union Saint-Gilloise" "Bel" "Leipzig XI" "GDR" "6-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"59" "Union Saint-Gilloise" "Bel" "Leipzig XI" "GDR" "0-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"60" "Hannover 96" "Ger" "AS Roma" "Ita" "1-3" "INTER-CITIES FAIRS CUP" "Round 1"
-"61" "Hannover 96" "Ger" "AS Roma" "Ita" "1-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"62" "Zagreb XI" "YUG" "Újpest Dózsa" "Hun" "4-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"63" "Zagreb XI" "YUG" "Újpest Dózsa" "Hun" "0-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"64" "Köln XI" "Ger" "Birmingham City" "Eng" "2-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"65" "Köln XI" "Ger" "Birmingham City" "Eng" "0-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"66" "FC Barcelona" "Esp" "Internazionale" "Ita" "4-0" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"67" "FC Barcelona" "Esp" "Internazionale" "Ita" "4-2" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"68" "Chelsea" "Eng" "Belgrade XI" "YUG" "1-0" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"69" "Chelsea" "Eng" "Belgrade XI" "YUG" "1-4" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"70" "Union Saint-Gilloise" "Bel" "AS Roma" "Ita" "2-0" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"71" "Union Saint-Gilloise" "Bel" "AS Roma" "Ita" "1-1" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"72" "Birmingham City" "Eng" "Zagreb XI" "YUG" "1-0" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"73" "Birmingham City" "Eng" "Zagreb XI" "YUG" "3-3" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"74" "Belgrade XI" "YUG" "FC Barcelona" "Esp" "1-1" "INTER-CITIES FAIRS CUP" "Semi Finals"
-"75" "Belgrade XI" "YUG" "FC Barcelona" "Esp" "1-3" "INTER-CITIES FAIRS CUP" "Semi Finals"
-"76" "Union Saint-Gilloise" "Bel" "Birmingham City" "Eng" "2-4" "INTER-CITIES FAIRS CUP" "Semi Finals"
-"77" "Union Saint-Gilloise" "Bel" "Birmingham City" "Eng" "2-4" "INTER-CITIES FAIRS CUP" "Semi Finals"
-"78" "Birmingham City" "Eng" "FC Barcelona" "Esp" "0-0" "INTER-CITIES FAIRS CUP" "Final"
-"79" "Birmingham City" "Eng" "FC Barcelona" "Esp" "1-4" "INTER-CITIES FAIRS CUP" "Final"
+"","home.team","home.ctry","away.team","away.ctry","match","tournament","round","V8"
+"1","Jeunesse d'Esch","Lux","LKS Lodz","Pol","5-0","CHAMPIONS CUP","Qualifying Round",1960
+"2","Jeunesse d'Esch","Lux","LKS Lodz","Pol","1-2","CHAMPIONS CUP","Qualifying Round",1960
+"3","Fenerbah�e","Tur","Csepel Budapest","Hun","1-1","CHAMPIONS CUP","Qualifying Round",1960
+"4","Fenerbah�e","Tur","Csepel Budapest","Hun","3-2","CHAMPIONS CUP","Qualifying Round",1960
+"5","OGC Nice","Fra","Shamrock Rovers","Irl","3-2","CHAMPIONS CUP","Qualifying Round",1960
+"6","OGC Nice","Fra","Shamrock Rovers","Irl","1-1","CHAMPIONS CUP","Qualifying Round",1960
+"7","Vorwärts Berlin","GDR","Wolverhampton Wanderers","Eng","2-1","CHAMPIONS CUP","Qualifying Round",1960
+"8","Vorwärts Berlin","GDR","Wolverhampton Wanderers","Eng","0-2","CHAMPIONS CUP","Qualifying Round",1960
+"9","Olympiakos Piraeus","Gre","AC Milan","Ita","2-2","CHAMPIONS CUP","Qualifying Round",1960
+"10","Olympiakos Piraeus","Gre","AC Milan","Ita","1-3","CHAMPIONS CUP","Qualifying Round",1960
+"11","CDNA Sofia","Bul","FC Barcelona","Esp","2-2","CHAMPIONS CUP","Qualifying Round",1960
+"12","CDNA Sofia","Bul","FC Barcelona","Esp","2-6","CHAMPIONS CUP","Qualifying Round",1960
+"13","Glasgow Rangers","Sco","Anderlecht","Bel","5-2","CHAMPIONS CUP","Qualifying Round",1960
+"14","Glasgow Rangers","Sco","Anderlecht","Bel","2-0","CHAMPIONS CUP","Qualifying Round",1960
+"15","Red Star Bratislava","TCH","FC Porto","Por","2-1","CHAMPIONS CUP","Qualifying Round",1960
+"16","Red Star Bratislava","TCH","FC Porto","Por","2-0","CHAMPIONS CUP","Qualifying Round",1960
+"17","Linfield Belfast","Nir","IFK Göteborg","Swe","2-1","CHAMPIONS CUP","Qualifying Round",1960
+"18","Linfield Belfast","Nir","IFK Göteborg","Swe","1-6","CHAMPIONS CUP","Qualifying Round",1960
+"19","Wiener Sportklub","Aut","Petrolul Ploiesti","Rom","0-0","CHAMPIONS CUP","Qualifying Round",1960
+"20","Wiener Sportklub","Aut","Petrolul Ploiesti","Rom","2-1","CHAMPIONS CUP","Qualifying Round",1960
+"21","Real Madrid","Esp","Jeunesse d'Esch","Lux","7-0","CHAMPIONS CUP","Round 1",1960
+"22","Real Madrid","Esp","Jeunesse d'Esch","Lux","5-2","CHAMPIONS CUP","Round 1",1960
+"23","Fenerbahçe","Tur","OGC Nice","Fra","2-1","CHAMPIONS CUP","Round 1",1960
+"24","Fenerbahçe","Tur","OGC Nice","Fra","1-2","CHAMPIONS CUP","Round 1",1960
+"25","Red Star Belgrade","YUG","Wolverhampton Wanderers","Eng","1-1","CHAMPIONS CUP","Round 1",1960
+"26","Red Star Belgrade","YUG","Wolverhampton Wanderers","Eng","0-3","CHAMPIONS CUP","Round 1",1960
+"27","AC Milan","Ita","FC Barcelona","Esp","0-2","CHAMPIONS CUP","Round 1",1960
+"28","AC Milan","Ita","FC Barcelona","Esp","1-5","CHAMPIONS CUP","Round 1",1960
+"29","Glasgow Rangers","Sco","Red Star Bratislava","TCH","4-3","CHAMPIONS CUP","Round 1",1960
+"30","Glasgow Rangers","Sco","Red Star Bratislava","TCH","1-1","CHAMPIONS CUP","Round 1",1960
+"31","Sparta Rotterdam","Ned","IFK Göteborg","Swe","3-1","CHAMPIONS CUP","Round 1",1960
+"32","Sparta Rotterdam","Ned","IFK Göteborg","Swe","1-3","CHAMPIONS CUP","Round 1",1960
+"33","B1909 Odense","Den","Wiener Sportklub","Aut","0-3","CHAMPIONS CUP","Round 1",1960
+"34","B1909 Odense","Den","Wiener Sportklub","Aut","2-2","CHAMPIONS CUP","Round 1",1960
+"35","Young Boys","Sui","Eintracht Frankfurt","Ger","1-4","CHAMPIONS CUP","Round 1",1960
+"36","Young Boys","Sui","Eintracht Frankfurt","Ger","1-1","CHAMPIONS CUP","Round 1",1960
+"37","OGC Nice","Fra","Real Madrid","Esp","3-2","CHAMPIONS CUP","Quarter Finals",1960
+"38","OGC Nice","Fra","Real Madrid","Esp","0-4","CHAMPIONS CUP","Quarter Finals",1960
+"39","FC Barcelona","Esp","Wolverhampton Wanderers","Eng","4-0","CHAMPIONS CUP","Quarter Finals",1960
+"40","FC Barcelona","Esp","Wolverhampton Wanderers","Eng","5-2","CHAMPIONS CUP","Quarter Finals",1960
+"41","Sparta Rotterdam","Ned","Glasgow Rangers","Sco","2-3","CHAMPIONS CUP","Quarter Finals",1960
+"42","Sparta Rotterdam","Ned","Glasgow Rangers","Sco","1-0","CHAMPIONS CUP","Quarter Finals",1960
+"43","Eintracht Frankfurt","Ger","Wiener Sportklub","Aut","2-1","CHAMPIONS CUP","Quarter Finals",1960
+"44","Eintracht Frankfurt","Ger","Wiener Sportklub","Aut","1-1","CHAMPIONS CUP","Quarter Finals",1960
+"45","Real Madrid","Esp","FC Barcelona","Esp","3-1","CHAMPIONS CUP","Semi Finals",1960
+"46","Real Madrid","Esp","FC Barcelona","Esp","3-1","CHAMPIONS CUP","Semi Finals",1960
+"47","Eintracht Frankfurt","Ger","Glasgow Rangers","Sco","6-1","CHAMPIONS CUP","Semi Finals",1960
+"48","Eintracht Frankfurt","Ger","Glasgow Rangers","Sco","6-3","CHAMPIONS CUP","Semi Finals",1960
+"49","Real Madrid","Esp","Eintracht Frankfurt","Ger","7-3","CHAMPIONS CUP","Final",1960
+"50","Basel XI","Sui","FC Barcelona","Esp","1-2","INTER-CITIES FAIRS CUP","Round 1",1960
+"51","Basel XI","Sui","FC Barcelona","Esp","2-5","INTER-CITIES FAIRS CUP","Round 1",1960
+"52","Internazionale","Ita","Olympique Lyon","Fra","7-0","INTER-CITIES FAIRS CUP","Round 1",1960
+"53","Internazionale","Ita","Olympique Lyon","Fra","1-1","INTER-CITIES FAIRS CUP","Round 1",1960
+"54","København XI","Den","Chelsea","Eng","1-3","INTER-CITIES FAIRS CUP","Round 1",1960
+"55","København XI","Den","Chelsea","Eng","1-4","INTER-CITIES FAIRS CUP","Round 1",1960
+"56","Belgrade XI","YUG","Lausanne Sports","Sui","6-1","INTER-CITIES FAIRS CUP","Round 1",1960
+"57","Belgrade XI","YUG","Lausanne Sports","Sui","5-3","INTER-CITIES FAIRS CUP","Round 1",1960
+"58","Union Saint-Gilloise","Bel","Leipzig XI","GDR","6-1","INTER-CITIES FAIRS CUP","Round 1",1960
+"59","Union Saint-Gilloise","Bel","Leipzig XI","GDR","0-1","INTER-CITIES FAIRS CUP","Round 1",1960
+"60","Hannover 96","Ger","AS Roma","Ita","1-3","INTER-CITIES FAIRS CUP","Round 1",1960
+"61","Hannover 96","Ger","AS Roma","Ita","1-1","INTER-CITIES FAIRS CUP","Round 1",1960
+"62","Zagreb XI","YUG","Újpest Dózsa","Hun","4-2","INTER-CITIES FAIRS CUP","Round 1",1960
+"63","Zagreb XI","YUG","Újpest Dózsa","Hun","0-1","INTER-CITIES FAIRS CUP","Round 1",1960
+"64","Köln XI","Ger","Birmingham City","Eng","2-2","INTER-CITIES FAIRS CUP","Round 1",1960
+"65","Köln XI","Ger","Birmingham City","Eng","0-2","INTER-CITIES FAIRS CUP","Round 1",1960
+"66","FC Barcelona","Esp","Internazionale","Ita","4-0","INTER-CITIES FAIRS CUP","Quarter Finals",1960
+"67","FC Barcelona","Esp","Internazionale","Ita","4-2","INTER-CITIES FAIRS CUP","Quarter Finals",1960
+"68","Chelsea","Eng","Belgrade XI","YUG","1-0","INTER-CITIES FAIRS CUP","Quarter Finals",1960
+"69","Chelsea","Eng","Belgrade XI","YUG","1-4","INTER-CITIES FAIRS CUP","Quarter Finals",1960
+"70","Union Saint-Gilloise","Bel","AS Roma","Ita","2-0","INTER-CITIES FAIRS CUP","Quarter Finals",1960
+"71","Union Saint-Gilloise","Bel","AS Roma","Ita","1-1","INTER-CITIES FAIRS CUP","Quarter Finals",1960
+"72","Birmingham City","Eng","Zagreb XI","YUG","1-0","INTER-CITIES FAIRS CUP","Quarter Finals",1960
+"73","Birmingham City","Eng","Zagreb XI","YUG","3-3","INTER-CITIES FAIRS CUP","Quarter Finals",1960
+"74","Belgrade XI","YUG","FC Barcelona","Esp","1-1","INTER-CITIES FAIRS CUP","Semi Finals",1960
+"75","Belgrade XI","YUG","FC Barcelona","Esp","1-3","INTER-CITIES FAIRS CUP","Semi Finals",1960
+"76","Union Saint-Gilloise","Bel","Birmingham City","Eng","2-4","INTER-CITIES FAIRS CUP","Semi Finals",1960
+"77","Union Saint-Gilloise","Bel","Birmingham City","Eng","2-4","INTER-CITIES FAIRS CUP","Semi Finals",1960
+"78","Birmingham City","Eng","FC Barcelona","Esp","0-0","INTER-CITIES FAIRS CUP","Final",1960
+"79","Birmingham City","Eng","FC Barcelona","Esp","1-4","INTER-CITIES FAIRS CUP","Final",1960

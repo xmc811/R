@@ -1,176 +1,176 @@
-"home.team" "home.ctry" "away.team" "away.ctry" "match" "tournament" "round"
-"1" "Everton" "Eng" "Internazionale" "Ita" "0-0" "CHAMPIONS CUP" "Round 1"
-"2" "Everton" "Eng" "Internazionale" "Ita" "0-1" "CHAMPIONS CUP" "Round 1"
-"3" "AS Monaco" "Fra" "AEK Athens" "Gre" "7-2" "CHAMPIONS CUP" "Round 1"
-"4" "AS Monaco" "Fra" "AEK Athens" "Gre" "1-1" "CHAMPIONS CUP" "Round 1"
-"5" "Haka Valkeakoski" "Fin" "Jeunesse d'Esch" "Lux" "4-1" "CHAMPIONS CUP" "Round 1"
-"6" "Haka Valkeakoski" "Fin" "Jeunesse d'Esch" "Lux" "0-4" "CHAMPIONS CUP" "Round 1"
-"7" "Partizan Belgrade" "YUG" "Anorthosis Famagusta" "Cyp" "3-0" "CHAMPIONS CUP" "Round 1"
-"8" "Partizan Belgrade" "YUG" "Anorthosis Famagusta" "Cyp" "3-1" "CHAMPIONS CUP" "Round 1"
-"9" "G�rnik Zabrze" "Pol" "Austria Wien" "Aut" "1-0" "CHAMPIONS CUP" "Round 1"
-"10" "G�rnik Zabrze" "Pol" "Austria Wien" "Aut" "0-1" "CHAMPIONS CUP" "Round 1"
-"11" "Dukla Praha" "TCH" "Valletta FC" "Mlt" "6-0" "CHAMPIONS CUP" "Round 1"
-"12" "Dukla Praha" "TCH" "Valletta FC" "Mlt" "2-0" "CHAMPIONS CUP" "Round 1"
-"13" "Distillery Belfast" "Nir" "Benfica" "Por" "3-3" "CHAMPIONS CUP" "Round 1"
-"14" "Distillery Belfast" "Nir" "Benfica" "Por" "0-5" "CHAMPIONS CUP" "Round 1"
-"15" "Lyn Oslo" "Nor" "Borussia Dortmund" "Ger" "2-4" "CHAMPIONS CUP" "Round 1"
-"16" "Lyn Oslo" "Nor" "Borussia Dortmund" "Ger" "1-3" "CHAMPIONS CUP" "Round 1"
-"17" "Dundalk" "Irl" "FC Zürich" "Sui" "0-3" "CHAMPIONS CUP" "Round 1"
-"18" "Dundalk" "Irl" "FC Zürich" "Sui" "2-1" "CHAMPIONS CUP" "Round 1"
-"19" "Galatasaray" "Tur" "Ferencváros" "Hun" "4-0" "CHAMPIONS CUP" "Round 1"
-"20" "Galatasaray" "Tur" "Ferencváros" "Hun" "0-2" "CHAMPIONS CUP" "Round 1"
-"21" "Partizani Tirana" "Alb" "Spartak Plovdiv" "Bul" "1-0" "CHAMPIONS CUP" "Round 1"
-"22" "Partizani Tirana" "Alb" "Spartak Plovdiv" "Bul" "1-3" "CHAMPIONS CUP" "Round 1"
-"23" "Esbjerg fB" "Den" "PSV Eindhoven" "Ned" "3-4" "CHAMPIONS CUP" "Round 1"
-"24" "Esbjerg fB" "Den" "PSV Eindhoven" "Ned" "1-7" "CHAMPIONS CUP" "Round 1"
-"25" "Standard Liège" "Bel" "IFK Norrköping" "Swe" "1-0" "CHAMPIONS CUP" "Round 1"
-"26" "Standard Liège" "Bel" "IFK Norrköping" "Swe" "0-2" "CHAMPIONS CUP" "Round 1"
-"27" "Dinamo Bucuresti" "Rom" "Motor Jena" "GDR" "2-0" "CHAMPIONS CUP" "Round 1"
-"28" "Dinamo Bucuresti" "Rom" "Motor Jena" "GDR" "1-0" "CHAMPIONS CUP" "Round 1"
-"29" "Glasgow Rangers" "Sco" "Real Madrid" "Esp" "0-1" "CHAMPIONS CUP" "Round 1"
-"30" "Glasgow Rangers" "Sco" "Real Madrid" "Esp" "0-6" "CHAMPIONS CUP" "Round 1"
-"31" "Internazionale" "Ita" "AS Monaco" "Fra" "1-0" "CHAMPIONS CUP" "Round 2"
-"32" "Internazionale" "Ita" "AS Monaco" "Fra" "3-1" "CHAMPIONS CUP" "Round 2"
-"33" "Jeunesse d'Esch" "Lux" "Partizan Belgrade" "YUG" "2-1" "CHAMPIONS CUP" "Round 2"
-"34" "Jeunesse d'Esch" "Lux" "Partizan Belgrade" "YUG" "2-6" "CHAMPIONS CUP" "Round 2"
-"35" "Górnik Zabrze" "Pol" "Dukla Praha" "TCH" "2-0" "CHAMPIONS CUP" "Round 2"
-"36" "Górnik Zabrze" "Pol" "Dukla Praha" "TCH" "1-4" "CHAMPIONS CUP" "Round 2"
-"37" "Benfica" "Por" "Borussia Dortmund" "Ger" "2-1" "CHAMPIONS CUP" "Round 2"
-"38" "Benfica" "Por" "Borussia Dortmund" "Ger" "0-5" "CHAMPIONS CUP" "Round 2"
-"39" "FC Zürich" "Sui" "Galatasaray" "Tur" "2-0" "CHAMPIONS CUP" "Round 2"
-"40" "FC Zürich" "Sui" "Galatasaray" "Tur" "0-2" "CHAMPIONS CUP" "Round 2"
-"41" "Spartak Plovdiv" "Bul" "PSV Eindhoven" "Ned" "0-1" "CHAMPIONS CUP" "Round 2"
-"42" "Spartak Plovdiv" "Bul" "PSV Eindhoven" "Ned" "0-0" "CHAMPIONS CUP" "Round 2"
-"43" "IFK Norrköping" "Swe" "AC Milan" "Ita" "1-1" "CHAMPIONS CUP" "Round 2"
-"44" "IFK Norrköping" "Swe" "AC Milan" "Ita" "2-5" "CHAMPIONS CUP" "Round 2"
-"45" "Dinamo Bucuresti" "Rom" "Real Madrid" "Esp" "1-3" "CHAMPIONS CUP" "Round 2"
-"46" "Dinamo Bucuresti" "Rom" "Real Madrid" "Esp" "3-5" "CHAMPIONS CUP" "Round 2"
-"47" "Partizan Belgrade" "YUG" "Internazionale" "Ita" "0-2" "CHAMPIONS CUP" "Quarter Finals"
-"48" "Partizan Belgrade" "YUG" "Internazionale" "Ita" "1-2" "CHAMPIONS CUP" "Quarter Finals"
-"49" "Dukla Praha" "TCH" "Borussia Dortmund" "Ger" "0-4" "CHAMPIONS CUP" "Quarter Finals"
-"50" "Dukla Praha" "TCH" "Borussia Dortmund" "Ger" "3-1" "CHAMPIONS CUP" "Quarter Finals"
-"51" "PSV Eindhoven" "Ned" "FC Zürich" "Sui" "1-0" "CHAMPIONS CUP" "Quarter Finals"
-"52" "PSV Eindhoven" "Ned" "FC Zürich" "Sui" "1-3" "CHAMPIONS CUP" "Quarter Finals"
-"53" "Real Madrid" "Esp" "AC Milan" "Ita" "4-1" "CHAMPIONS CUP" "Quarter Finals"
-"54" "Real Madrid" "Esp" "AC Milan" "Ita" "0-2" "CHAMPIONS CUP" "Quarter Finals"
-"55" "Borussia Dortmund" "Ger" "Internazionale" "Ita" "2-2" "CHAMPIONS CUP" "Semi Finals"
-"56" "Borussia Dortmund" "Ger" "Internazionale" "Ita" "0-2" "CHAMPIONS CUP" "Semi Finals"
-"57" "FC Zürich" "Sui" "Real Madrid" "Esp" "1-2" "CHAMPIONS CUP" "Semi Finals"
-"58" "FC Zürich" "Sui" "Real Madrid" "Esp" "0-6" "CHAMPIONS CUP" "Semi Finals"
-"59" "Internazionale" "Ita" "Real Madrid" "Esp" "3-1" "CHAMPIONS CUP" "Final"
-"60" "Atalanta" "Ita" "Sporting CP Lisbon" "Por" "2-0" "CUP WINNERS CUP" "Round 1"
-"61" "Atalanta" "Ita" "Sporting CP Lisbon" "Por" "1-3" "CUP WINNERS CUP" "Round 1"
-"62" "APOEL Nicosia" "Cyp" "Gjøvik Lyn" "Nor" "6-0" "CUP WINNERS CUP" "Round 1"
-"63" "APOEL Nicosia" "Cyp" "Gjøvik Lyn" "Nor" "1-0" "CUP WINNERS CUP" "Round 1"
-"64" "Willem II Tilburg" "Ned" "Manchester United" "Eng" "1-1" "CUP WINNERS CUP" "Round 1"
-"65" "Willem II Tilburg" "Ned" "Manchester United" "Eng" "1-6" "CUP WINNERS CUP" "Round 1"
-"66" "Hamburger SV" "Ger" "Union Luxembourg" "Lux" "4-0" "CUP WINNERS CUP" "Round 1"
-"67" "Hamburger SV" "Ger" "Union Luxembourg" "Lux" "3-2" "CUP WINNERS CUP" "Round 1"
-"68" "Shelbourne" "Irl" "FC Barcelona" "Esp" "0-2" "CUP WINNERS CUP" "Round 1"
-"69" "Shelbourne" "Irl" "FC Barcelona" "Esp" "1-3" "CUP WINNERS CUP" "Round 1"
-"70" "Olympiakos Piraeus" "Gre" "Zaglebie Sosnowiec" "Pol" "2-1" "CUP WINNERS CUP" "Round 1"
-"71" "Olympiakos Piraeus" "Gre" "Zaglebie Sosnowiec" "Pol" "0-1" "CUP WINNERS CUP" "Round 1"
-"72" "Olympique Lyon" "Fra" "B1913 Odense" "Den" "3-1" "CUP WINNERS CUP" "Round 1"
-"73" "Olympique Lyon" "Fra" "B1913 Odense" "Den" "3-1" "CUP WINNERS CUP" "Round 1"
-"74" "FC Basel" "Sui" "Celtic" "Sco" "1-5" "CUP WINNERS CUP" "Round 1"
-"75" "FC Basel" "Sui" "Celtic" "Sco" "0-5" "CUP WINNERS CUP" "Round 1"
-"76" "LASK Linz" "Aut" "Dinamo Zagreb" "YUG" "1-0" "CUP WINNERS CUP" "Round 1"
-"77" "LASK Linz" "Aut" "Dinamo Zagreb" "YUG" "0-1" "CUP WINNERS CUP" "Round 1"
-"78" "HPS Helsinki" "Fin" "Slovan Bratislava" "TCH" "1-4" "CUP WINNERS CUP" "Round 1"
-"79" "HPS Helsinki" "Fin" "Slovan Bratislava" "TCH" "1-8" "CUP WINNERS CUP" "Round 1"
-"80" "Sliema Wanderers" "Mlt" "Borough United" "Wal" "0-0" "CUP WINNERS CUP" "Round 1"
-"81" "Sliema Wanderers" "Mlt" "Borough United" "Wal" "0-2" "CUP WINNERS CUP" "Round 1"
-"82" "Fenerbahçe" "Tur" "Petrolul Ploiesti" "Rom" "4-1" "CUP WINNERS CUP" "Round 1"
-"83" "Fenerbahçe" "Tur" "Petrolul Ploiesti" "Rom" "0-1" "CUP WINNERS CUP" "Round 1"
-"84" "MTK Budapest" "Hun" "Slavia Sofia" "Bul" "1-0" "CUP WINNERS CUP" "Round 1"
-"85" "MTK Budapest" "Hun" "Slavia Sofia" "Bul" "1-1" "CUP WINNERS CUP" "Round 1"
-"86" "Sporting CP Lisbon" "Por" "APOEL Nicosia" "Cyp" "16-1" "CUP WINNERS CUP" "Round 2"
-"87" "Sporting CP Lisbon" "Por" "APOEL Nicosia" "Cyp" "2-0" "CUP WINNERS CUP" "Round 2"
-"88" "Tottenham Hotspur" "Eng" "Manchester United" "Eng" "2-0" "CUP WINNERS CUP" "Round 2"
-"89" "Tottenham Hotspur" "Eng" "Manchester United" "Eng" "1-4" "CUP WINNERS CUP" "Round 2"
-"90" "FC Barcelona" "Esp" "Hamburger SV" "Ger" "4-4" "CUP WINNERS CUP" "Round 2"
-"91" "FC Barcelona" "Esp" "Hamburger SV" "Ger" "0-0" "CUP WINNERS CUP" "Round 2"
-"92" "Olympique Lyon" "Fra" "Olympiakos Piraeus" "Gre" "4-1" "CUP WINNERS CUP" "Round 2"
-"93" "Olympique Lyon" "Fra" "Olympiakos Piraeus" "Gre" "1-2" "CUP WINNERS CUP" "Round 2"
-"94" "Celtic" "Sco" "Dinamo Zagreb" "YUG" "3-0" "CUP WINNERS CUP" "Round 2"
-"95" "Celtic" "Sco" "Dinamo Zagreb" "YUG" "1-2" "CUP WINNERS CUP" "Round 2"
-"96" "Borough United" "Wal" "Slovan Bratislava" "TCH" "0-1" "CUP WINNERS CUP" "Round 2"
-"97" "Borough United" "Wal" "Slovan Bratislava" "TCH" "0-3" "CUP WINNERS CUP" "Round 2"
-"98" "Fenerbahçe" "Tur" "Linfield Belfast" "Nir" "4-1" "CUP WINNERS CUP" "Round 2"
-"99" "Fenerbahçe" "Tur" "Linfield Belfast" "Nir" "0-2" "CUP WINNERS CUP" "Round 2"
-"100" "Motor Zwickau" "GDR" "MTK Budapest" "Hun" "1-0" "CUP WINNERS CUP" "Round 2"
-"101" "Motor Zwickau" "GDR" "MTK Budapest" "Hun" "0-2" "CUP WINNERS CUP" "Round 2"
-"102" "Manchester United" "Eng" "Sporting CP Lisbon" "Por" "4-1" "CUP WINNERS CUP" "Quarter Finals"
-"103" "Manchester United" "Eng" "Sporting CP Lisbon" "Por" "0-5" "CUP WINNERS CUP" "Quarter Finals"
-"104" "Hamburger SV" "Ger" "Olympique Lyon" "Fra" "1-1" "CUP WINNERS CUP" "Quarter Finals"
-"105" "Hamburger SV" "Ger" "Olympique Lyon" "Fra" "0-2" "CUP WINNERS CUP" "Quarter Finals"
-"106" "Celtic" "Sco" "Slovan Bratislava" "TCH" "1-0" "CUP WINNERS CUP" "Quarter Finals"
-"107" "Celtic" "Sco" "Slovan Bratislava" "TCH" "1-0" "CUP WINNERS CUP" "Quarter Finals"
-"108" "MTK Budapest" "Hun" "Fenerbahçe" "Tur" "2-0" "CUP WINNERS CUP" "Quarter Finals"
-"109" "MTK Budapest" "Hun" "Fenerbahçe" "Tur" "1-3" "CUP WINNERS CUP" "Quarter Finals"
-"110" "Olympique Lyon" "Fra" "Sporting CP Lisbon" "Por" "0-0" "CUP WINNERS CUP" "Semi Finals"
-"111" "Olympique Lyon" "Fra" "Sporting CP Lisbon" "Por" "1-1" "CUP WINNERS CUP" "Semi Finals"
-"112" "Celtic" "Sco" "MTK Budapest" "Hun" "3-0" "CUP WINNERS CUP" "Semi Finals"
-"113" "Celtic" "Sco" "MTK Budapest" "Hun" "0-4" "CUP WINNERS CUP" "Semi Finals"
-"114" "Sporting CP Lisbon" "Por" "MTK Budapest" "Hun" "3-3" "CUP WINNERS CUP" "Final"
-"115" "Iraklis Thessaloniki" "Gre" "Real Zaragoza" "Esp" "0-3" "INTER-CITIES FAIRS CUP" "Round 1"
-"116" "Iraklis Thessaloniki" "Gre" "Real Zaragoza" "Esp" "1-6" "INTER-CITIES FAIRS CUP" "Round 1"
-"117" "Lausanne Sports" "Sui" "Hearts FC" "Sco" "2-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"118" "Lausanne Sports" "Sui" "Hearts FC" "Sco" "2-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"119" "Atlético Madrid" "Esp" "FC Porto" "Por" "2-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"120" "Atlético Madrid" "Esp" "FC Porto" "Por" "0-0" "INTER-CITIES FAIRS CUP" "Round 1"
-"121" "Juventus" "Ita" "OFK Belgrade" "YUG" "2-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"122" "Juventus" "Ita" "OFK Belgrade" "YUG" "1-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"123" "Spartak Brno" "TCH" "Servette FC Genève" "Sui" "5-0" "INTER-CITIES FAIRS CUP" "Round 1"
-"124" "Spartak Brno" "TCH" "Servette FC Genève" "Sui" "2-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"125" "Glentoran" "Nir" "Partick Thistle" "Sco" "1-4" "INTER-CITIES FAIRS CUP" "Round 1"
-"126" "Glentoran" "Nir" "Partick Thistle" "Sco" "0-3" "INTER-CITIES FAIRS CUP" "Round 1"
-"127" "København XI" "Den" "Arsenal" "Eng" "1-7" "INTER-CITIES FAIRS CUP" "Round 1"
-"128" "København XI" "Den" "Arsenal" "Eng" "3-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"129" "Aris Bonnevoie" "Lux" "FC Liège" "Bel" "0-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"130" "Aris Bonnevoie" "Lux" "FC Liège" "Bel" "0-0" "INTER-CITIES FAIRS CUP" "Round 1"
-"131" "1.FC Köln" "Ger" "AA Gent" "Bel" "3-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"132" "1.FC Köln" "Ger" "AA Gent" "Bel" "1-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"133" "DOS Utrecht" "Ned" "Sheffield Wednesday" "Eng" "1-4" "INTER-CITIES FAIRS CUP" "Round 1"
-"134" "DOS Utrecht" "Ned" "Sheffield Wednesday" "Eng" "1-4" "INTER-CITIES FAIRS CUP" "Round 1"
-"135" "Tresnjevka Zagreb" "YUG" "CF Os Belenenses" "Por" "0-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"136" "Tresnjevka Zagreb" "YUG" "CF Os Belenenses" "Por" "1-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"137" "Hertha BSC" "Ger" "AS Roma" "Ita" "1-3" "INTER-CITIES FAIRS CUP" "Round 1"
-"138" "Hertha BSC" "Ger" "AS Roma" "Ita" "0-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"139" "SC Leipzig" "GDR" "Újpest Dózsa" "Hun" "0-0" "INTER-CITIES FAIRS CUP" "Round 1"
-"140" "SC Leipzig" "GDR" "Újpest Dózsa" "Hun" "2-3" "INTER-CITIES FAIRS CUP" "Round 1"
-"141" "Steagul Rosu Brasov" "Rom" "Lokomotiv Plovdiv" "Bul" "1-3" "INTER-CITIES FAIRS CUP" "Round 1"
-"142" "Steagul Rosu Brasov" "Rom" "Lokomotiv Plovdiv" "Bul" "1-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"143" "Rapid Wien" "Aut" "RC Paris" "Fra" "1-0" "INTER-CITIES FAIRS CUP" "Round 1"
-"144" "Rapid Wien" "Aut" "RC Paris" "Fra" "3-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"145" "Shamrock Rovers" "Irl" "Valencia" "Esp" "0-1" "INTER-CITIES FAIRS CUP" "Round 1"
-"146" "Shamrock Rovers" "Irl" "Valencia" "Esp" "2-2" "INTER-CITIES FAIRS CUP" "Round 1"
-"147" "Lausanne Sports" "Sui" "Real Zaragoza" "Esp" "1-2" "INTER-CITIES FAIRS CUP" "Round 2"
-"148" "Lausanne Sports" "Sui" "Real Zaragoza" "Esp" "0-3" "INTER-CITIES FAIRS CUP" "Round 2"
-"149" "Juventus" "Ita" "Atlético Madrid" "Esp" "1-0" "INTER-CITIES FAIRS CUP" "Round 2"
-"150" "Juventus" "Ita" "Atlético Madrid" "Esp" "2-1" "INTER-CITIES FAIRS CUP" "Round 2"
-"151" "Partick Thistle" "Sco" "Spartak Brno" "TCH" "3-2" "INTER-CITIES FAIRS CUP" "Round 2"
-"152" "Partick Thistle" "Sco" "Spartak Brno" "TCH" "0-4" "INTER-CITIES FAIRS CUP" "Round 2"
-"153" "Arsenal" "Eng" "FC Liège" "Bel" "1-1" "INTER-CITIES FAIRS CUP" "Round 2"
-"154" "Arsenal" "Eng" "FC Liège" "Bel" "1-3" "INTER-CITIES FAIRS CUP" "Round 2"
-"155" "1.FC Köln" "Ger" "Sheffield Wednesday" "Eng" "3-2" "INTER-CITIES FAIRS CUP" "Round 2"
-"156" "1.FC Köln" "Ger" "Sheffield Wednesday" "Eng" "2-1" "INTER-CITIES FAIRS CUP" "Round 2"
-"157" "AS Roma" "Ita" "CF Os Belenenses" "Por" "2-1" "INTER-CITIES FAIRS CUP" "Round 2"
-"158" "AS Roma" "Ita" "CF Os Belenenses" "Por" "1-0" "INTER-CITIES FAIRS CUP" "Round 2"
-"159" "Újpest Dózsa" "Hun" "Lokomotiv Plovdiv" "Bul" "0-0" "INTER-CITIES FAIRS CUP" "Round 2"
-"160" "Újpest Dózsa" "Hun" "Lokomotiv Plovdiv" "Bul" "3-1" "INTER-CITIES FAIRS CUP" "Round 2"
-"161" "Rapid Wien" "Aut" "Valencia" "Esp" "0-0" "INTER-CITIES FAIRS CUP" "Round 2"
-"162" "Rapid Wien" "Aut" "Valencia" "Esp" "2-3" "INTER-CITIES FAIRS CUP" "Round 2"
-"163" "Real Zaragoza" "Esp" "Juventus" "Ita" "3-2" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"164" "Real Zaragoza" "Esp" "Juventus" "Ita" "0-0" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"165" "FC Liège" "Bel" "Spartak Brno" "TCH" "2-0" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"166" "FC Liège" "Bel" "Spartak Brno" "TCH" "0-2" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"167" "AS Roma" "Ita" "1.FC Köln" "Ger" "3-1" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"168" "AS Roma" "Ita" "1.FC Köln" "Ger" "0-4" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"169" "Valencia" "Esp" "Újpest Dózsa" "Hun" "5-2" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"170" "Valencia" "Esp" "Újpest Dózsa" "Hun" "1-3" "INTER-CITIES FAIRS CUP" "Quarter Finals"
-"171" "FC Liège" "Bel" "Real Zaragoza" "Esp" "1-0" "INTER-CITIES FAIRS CUP" "Semi Finals"
-"172" "FC Liège" "Bel" "Real Zaragoza" "Esp" "1-2" "INTER-CITIES FAIRS CUP" "Semi Finals"
-"173" "Valencia" "Esp" "1.FC Köln" "Ger" "4-1" "INTER-CITIES FAIRS CUP" "Semi Finals"
-"174" "Valencia" "Esp" "1.FC Köln" "Ger" "0-2" "INTER-CITIES FAIRS CUP" "Semi Finals"
-"175" "Real Zaragoza" "Esp" "Valencia" "Esp" "2-1" "INTER-CITIES FAIRS CUP" "Final"
+"","home.team","home.ctry","away.team","away.ctry","match","tournament","round","V8"
+"1","Everton","Eng","Internazionale","Ita","0-0","CHAMPIONS CUP","Round 1",1964
+"2","Everton","Eng","Internazionale","Ita","0-1","CHAMPIONS CUP","Round 1",1964
+"3","AS Monaco","Fra","AEK Athens","Gre","7-2","CHAMPIONS CUP","Round 1",1964
+"4","AS Monaco","Fra","AEK Athens","Gre","1-1","CHAMPIONS CUP","Round 1",1964
+"5","Haka Valkeakoski","Fin","Jeunesse d'Esch","Lux","4-1","CHAMPIONS CUP","Round 1",1964
+"6","Haka Valkeakoski","Fin","Jeunesse d'Esch","Lux","0-4","CHAMPIONS CUP","Round 1",1964
+"7","Partizan Belgrade","YUG","Anorthosis Famagusta","Cyp","3-0","CHAMPIONS CUP","Round 1",1964
+"8","Partizan Belgrade","YUG","Anorthosis Famagusta","Cyp","3-1","CHAMPIONS CUP","Round 1",1964
+"9","G�rnik Zabrze","Pol","Austria Wien","Aut","1-0","CHAMPIONS CUP","Round 1",1964
+"10","G�rnik Zabrze","Pol","Austria Wien","Aut","0-1","CHAMPIONS CUP","Round 1",1964
+"11","Dukla Praha","TCH","Valletta FC","Mlt","6-0","CHAMPIONS CUP","Round 1",1964
+"12","Dukla Praha","TCH","Valletta FC","Mlt","2-0","CHAMPIONS CUP","Round 1",1964
+"13","Distillery Belfast","Nir","Benfica","Por","3-3","CHAMPIONS CUP","Round 1",1964
+"14","Distillery Belfast","Nir","Benfica","Por","0-5","CHAMPIONS CUP","Round 1",1964
+"15","Lyn Oslo","Nor","Borussia Dortmund","Ger","2-4","CHAMPIONS CUP","Round 1",1964
+"16","Lyn Oslo","Nor","Borussia Dortmund","Ger","1-3","CHAMPIONS CUP","Round 1",1964
+"17","Dundalk","Irl","FC Zürich","Sui","0-3","CHAMPIONS CUP","Round 1",1964
+"18","Dundalk","Irl","FC Zürich","Sui","2-1","CHAMPIONS CUP","Round 1",1964
+"19","Galatasaray","Tur","Ferencváros","Hun","4-0","CHAMPIONS CUP","Round 1",1964
+"20","Galatasaray","Tur","Ferencváros","Hun","0-2","CHAMPIONS CUP","Round 1",1964
+"21","Partizani Tirana","Alb","Spartak Plovdiv","Bul","1-0","CHAMPIONS CUP","Round 1",1964
+"22","Partizani Tirana","Alb","Spartak Plovdiv","Bul","1-3","CHAMPIONS CUP","Round 1",1964
+"23","Esbjerg fB","Den","PSV Eindhoven","Ned","3-4","CHAMPIONS CUP","Round 1",1964
+"24","Esbjerg fB","Den","PSV Eindhoven","Ned","1-7","CHAMPIONS CUP","Round 1",1964
+"25","Standard Liège","Bel","IFK Norrköping","Swe","1-0","CHAMPIONS CUP","Round 1",1964
+"26","Standard Liège","Bel","IFK Norrköping","Swe","0-2","CHAMPIONS CUP","Round 1",1964
+"27","Dinamo Bucuresti","Rom","Motor Jena","GDR","2-0","CHAMPIONS CUP","Round 1",1964
+"28","Dinamo Bucuresti","Rom","Motor Jena","GDR","1-0","CHAMPIONS CUP","Round 1",1964
+"29","Glasgow Rangers","Sco","Real Madrid","Esp","0-1","CHAMPIONS CUP","Round 1",1964
+"30","Glasgow Rangers","Sco","Real Madrid","Esp","0-6","CHAMPIONS CUP","Round 1",1964
+"31","Internazionale","Ita","AS Monaco","Fra","1-0","CHAMPIONS CUP","Round 2",1964
+"32","Internazionale","Ita","AS Monaco","Fra","3-1","CHAMPIONS CUP","Round 2",1964
+"33","Jeunesse d'Esch","Lux","Partizan Belgrade","YUG","2-1","CHAMPIONS CUP","Round 2",1964
+"34","Jeunesse d'Esch","Lux","Partizan Belgrade","YUG","2-6","CHAMPIONS CUP","Round 2",1964
+"35","Górnik Zabrze","Pol","Dukla Praha","TCH","2-0","CHAMPIONS CUP","Round 2",1964
+"36","Górnik Zabrze","Pol","Dukla Praha","TCH","1-4","CHAMPIONS CUP","Round 2",1964
+"37","Benfica","Por","Borussia Dortmund","Ger","2-1","CHAMPIONS CUP","Round 2",1964
+"38","Benfica","Por","Borussia Dortmund","Ger","0-5","CHAMPIONS CUP","Round 2",1964
+"39","FC Zürich","Sui","Galatasaray","Tur","2-0","CHAMPIONS CUP","Round 2",1964
+"40","FC Zürich","Sui","Galatasaray","Tur","0-2","CHAMPIONS CUP","Round 2",1964
+"41","Spartak Plovdiv","Bul","PSV Eindhoven","Ned","0-1","CHAMPIONS CUP","Round 2",1964
+"42","Spartak Plovdiv","Bul","PSV Eindhoven","Ned","0-0","CHAMPIONS CUP","Round 2",1964
+"43","IFK Norrköping","Swe","AC Milan","Ita","1-1","CHAMPIONS CUP","Round 2",1964
+"44","IFK Norrköping","Swe","AC Milan","Ita","2-5","CHAMPIONS CUP","Round 2",1964
+"45","Dinamo Bucuresti","Rom","Real Madrid","Esp","1-3","CHAMPIONS CUP","Round 2",1964
+"46","Dinamo Bucuresti","Rom","Real Madrid","Esp","3-5","CHAMPIONS CUP","Round 2",1964
+"47","Partizan Belgrade","YUG","Internazionale","Ita","0-2","CHAMPIONS CUP","Quarter Finals",1964
+"48","Partizan Belgrade","YUG","Internazionale","Ita","1-2","CHAMPIONS CUP","Quarter Finals",1964
+"49","Dukla Praha","TCH","Borussia Dortmund","Ger","0-4","CHAMPIONS CUP","Quarter Finals",1964
+"50","Dukla Praha","TCH","Borussia Dortmund","Ger","3-1","CHAMPIONS CUP","Quarter Finals",1964
+"51","PSV Eindhoven","Ned","FC Zürich","Sui","1-0","CHAMPIONS CUP","Quarter Finals",1964
+"52","PSV Eindhoven","Ned","FC Zürich","Sui","1-3","CHAMPIONS CUP","Quarter Finals",1964
+"53","Real Madrid","Esp","AC Milan","Ita","4-1","CHAMPIONS CUP","Quarter Finals",1964
+"54","Real Madrid","Esp","AC Milan","Ita","0-2","CHAMPIONS CUP","Quarter Finals",1964
+"55","Borussia Dortmund","Ger","Internazionale","Ita","2-2","CHAMPIONS CUP","Semi Finals",1964
+"56","Borussia Dortmund","Ger","Internazionale","Ita","0-2","CHAMPIONS CUP","Semi Finals",1964
+"57","FC Zürich","Sui","Real Madrid","Esp","1-2","CHAMPIONS CUP","Semi Finals",1964
+"58","FC Zürich","Sui","Real Madrid","Esp","0-6","CHAMPIONS CUP","Semi Finals",1964
+"59","Internazionale","Ita","Real Madrid","Esp","3-1","CHAMPIONS CUP","Final",1964
+"60","Atalanta","Ita","Sporting CP Lisbon","Por","2-0","CUP WINNERS CUP","Round 1",1964
+"61","Atalanta","Ita","Sporting CP Lisbon","Por","1-3","CUP WINNERS CUP","Round 1",1964
+"62","APOEL Nicosia","Cyp","Gjøvik Lyn","Nor","6-0","CUP WINNERS CUP","Round 1",1964
+"63","APOEL Nicosia","Cyp","Gjøvik Lyn","Nor","1-0","CUP WINNERS CUP","Round 1",1964
+"64","Willem II Tilburg","Ned","Manchester United","Eng","1-1","CUP WINNERS CUP","Round 1",1964
+"65","Willem II Tilburg","Ned","Manchester United","Eng","1-6","CUP WINNERS CUP","Round 1",1964
+"66","Hamburger SV","Ger","Union Luxembourg","Lux","4-0","CUP WINNERS CUP","Round 1",1964
+"67","Hamburger SV","Ger","Union Luxembourg","Lux","3-2","CUP WINNERS CUP","Round 1",1964
+"68","Shelbourne","Irl","FC Barcelona","Esp","0-2","CUP WINNERS CUP","Round 1",1964
+"69","Shelbourne","Irl","FC Barcelona","Esp","1-3","CUP WINNERS CUP","Round 1",1964
+"70","Olympiakos Piraeus","Gre","Zaglebie Sosnowiec","Pol","2-1","CUP WINNERS CUP","Round 1",1964
+"71","Olympiakos Piraeus","Gre","Zaglebie Sosnowiec","Pol","0-1","CUP WINNERS CUP","Round 1",1964
+"72","Olympique Lyon","Fra","B1913 Odense","Den","3-1","CUP WINNERS CUP","Round 1",1964
+"73","Olympique Lyon","Fra","B1913 Odense","Den","3-1","CUP WINNERS CUP","Round 1",1964
+"74","FC Basel","Sui","Celtic","Sco","1-5","CUP WINNERS CUP","Round 1",1964
+"75","FC Basel","Sui","Celtic","Sco","0-5","CUP WINNERS CUP","Round 1",1964
+"76","LASK Linz","Aut","Dinamo Zagreb","YUG","1-0","CUP WINNERS CUP","Round 1",1964
+"77","LASK Linz","Aut","Dinamo Zagreb","YUG","0-1","CUP WINNERS CUP","Round 1",1964
+"78","HPS Helsinki","Fin","Slovan Bratislava","TCH","1-4","CUP WINNERS CUP","Round 1",1964
+"79","HPS Helsinki","Fin","Slovan Bratislava","TCH","1-8","CUP WINNERS CUP","Round 1",1964
+"80","Sliema Wanderers","Mlt","Borough United","Wal","0-0","CUP WINNERS CUP","Round 1",1964
+"81","Sliema Wanderers","Mlt","Borough United","Wal","0-2","CUP WINNERS CUP","Round 1",1964
+"82","Fenerbahçe","Tur","Petrolul Ploiesti","Rom","4-1","CUP WINNERS CUP","Round 1",1964
+"83","Fenerbahçe","Tur","Petrolul Ploiesti","Rom","0-1","CUP WINNERS CUP","Round 1",1964
+"84","MTK Budapest","Hun","Slavia Sofia","Bul","1-0","CUP WINNERS CUP","Round 1",1964
+"85","MTK Budapest","Hun","Slavia Sofia","Bul","1-1","CUP WINNERS CUP","Round 1",1964
+"86","Sporting CP Lisbon","Por","APOEL Nicosia","Cyp","16-1","CUP WINNERS CUP","Round 2",1964
+"87","Sporting CP Lisbon","Por","APOEL Nicosia","Cyp","2-0","CUP WINNERS CUP","Round 2",1964
+"88","Tottenham Hotspur","Eng","Manchester United","Eng","2-0","CUP WINNERS CUP","Round 2",1964
+"89","Tottenham Hotspur","Eng","Manchester United","Eng","1-4","CUP WINNERS CUP","Round 2",1964
+"90","FC Barcelona","Esp","Hamburger SV","Ger","4-4","CUP WINNERS CUP","Round 2",1964
+"91","FC Barcelona","Esp","Hamburger SV","Ger","0-0","CUP WINNERS CUP","Round 2",1964
+"92","Olympique Lyon","Fra","Olympiakos Piraeus","Gre","4-1","CUP WINNERS CUP","Round 2",1964
+"93","Olympique Lyon","Fra","Olympiakos Piraeus","Gre","1-2","CUP WINNERS CUP","Round 2",1964
+"94","Celtic","Sco","Dinamo Zagreb","YUG","3-0","CUP WINNERS CUP","Round 2",1964
+"95","Celtic","Sco","Dinamo Zagreb","YUG","1-2","CUP WINNERS CUP","Round 2",1964
+"96","Borough United","Wal","Slovan Bratislava","TCH","0-1","CUP WINNERS CUP","Round 2",1964
+"97","Borough United","Wal","Slovan Bratislava","TCH","0-3","CUP WINNERS CUP","Round 2",1964
+"98","Fenerbahçe","Tur","Linfield Belfast","Nir","4-1","CUP WINNERS CUP","Round 2",1964
+"99","Fenerbahçe","Tur","Linfield Belfast","Nir","0-2","CUP WINNERS CUP","Round 2",1964
+"100","Motor Zwickau","GDR","MTK Budapest","Hun","1-0","CUP WINNERS CUP","Round 2",1964
+"101","Motor Zwickau","GDR","MTK Budapest","Hun","0-2","CUP WINNERS CUP","Round 2",1964
+"102","Manchester United","Eng","Sporting CP Lisbon","Por","4-1","CUP WINNERS CUP","Quarter Finals",1964
+"103","Manchester United","Eng","Sporting CP Lisbon","Por","0-5","CUP WINNERS CUP","Quarter Finals",1964
+"104","Hamburger SV","Ger","Olympique Lyon","Fra","1-1","CUP WINNERS CUP","Quarter Finals",1964
+"105","Hamburger SV","Ger","Olympique Lyon","Fra","0-2","CUP WINNERS CUP","Quarter Finals",1964
+"106","Celtic","Sco","Slovan Bratislava","TCH","1-0","CUP WINNERS CUP","Quarter Finals",1964
+"107","Celtic","Sco","Slovan Bratislava","TCH","1-0","CUP WINNERS CUP","Quarter Finals",1964
+"108","MTK Budapest","Hun","Fenerbahçe","Tur","2-0","CUP WINNERS CUP","Quarter Finals",1964
+"109","MTK Budapest","Hun","Fenerbahçe","Tur","1-3","CUP WINNERS CUP","Quarter Finals",1964
+"110","Olympique Lyon","Fra","Sporting CP Lisbon","Por","0-0","CUP WINNERS CUP","Semi Finals",1964
+"111","Olympique Lyon","Fra","Sporting CP Lisbon","Por","1-1","CUP WINNERS CUP","Semi Finals",1964
+"112","Celtic","Sco","MTK Budapest","Hun","3-0","CUP WINNERS CUP","Semi Finals",1964
+"113","Celtic","Sco","MTK Budapest","Hun","0-4","CUP WINNERS CUP","Semi Finals",1964
+"114","Sporting CP Lisbon","Por","MTK Budapest","Hun","3-3","CUP WINNERS CUP","Final",1964
+"115","Iraklis Thessaloniki","Gre","Real Zaragoza","Esp","0-3","INTER-CITIES FAIRS CUP","Round 1",1964
+"116","Iraklis Thessaloniki","Gre","Real Zaragoza","Esp","1-6","INTER-CITIES FAIRS CUP","Round 1",1964
+"117","Lausanne Sports","Sui","Hearts FC","Sco","2-2","INTER-CITIES FAIRS CUP","Round 1",1964
+"118","Lausanne Sports","Sui","Hearts FC","Sco","2-2","INTER-CITIES FAIRS CUP","Round 1",1964
+"119","Atlético Madrid","Esp","FC Porto","Por","2-1","INTER-CITIES FAIRS CUP","Round 1",1964
+"120","Atlético Madrid","Esp","FC Porto","Por","0-0","INTER-CITIES FAIRS CUP","Round 1",1964
+"121","Juventus","Ita","OFK Belgrade","YUG","2-1","INTER-CITIES FAIRS CUP","Round 1",1964
+"122","Juventus","Ita","OFK Belgrade","YUG","1-2","INTER-CITIES FAIRS CUP","Round 1",1964
+"123","Spartak Brno","TCH","Servette FC Genève","Sui","5-0","INTER-CITIES FAIRS CUP","Round 1",1964
+"124","Spartak Brno","TCH","Servette FC Genève","Sui","2-1","INTER-CITIES FAIRS CUP","Round 1",1964
+"125","Glentoran","Nir","Partick Thistle","Sco","1-4","INTER-CITIES FAIRS CUP","Round 1",1964
+"126","Glentoran","Nir","Partick Thistle","Sco","0-3","INTER-CITIES FAIRS CUP","Round 1",1964
+"127","København XI","Den","Arsenal","Eng","1-7","INTER-CITIES FAIRS CUP","Round 1",1964
+"128","København XI","Den","Arsenal","Eng","3-2","INTER-CITIES FAIRS CUP","Round 1",1964
+"129","Aris Bonnevoie","Lux","FC Liège","Bel","0-2","INTER-CITIES FAIRS CUP","Round 1",1964
+"130","Aris Bonnevoie","Lux","FC Liège","Bel","0-0","INTER-CITIES FAIRS CUP","Round 1",1964
+"131","1.FC Köln","Ger","AA Gent","Bel","3-1","INTER-CITIES FAIRS CUP","Round 1",1964
+"132","1.FC Köln","Ger","AA Gent","Bel","1-1","INTER-CITIES FAIRS CUP","Round 1",1964
+"133","DOS Utrecht","Ned","Sheffield Wednesday","Eng","1-4","INTER-CITIES FAIRS CUP","Round 1",1964
+"134","DOS Utrecht","Ned","Sheffield Wednesday","Eng","1-4","INTER-CITIES FAIRS CUP","Round 1",1964
+"135","Tresnjevka Zagreb","YUG","CF Os Belenenses","Por","0-2","INTER-CITIES FAIRS CUP","Round 1",1964
+"136","Tresnjevka Zagreb","YUG","CF Os Belenenses","Por","1-2","INTER-CITIES FAIRS CUP","Round 1",1964
+"137","Hertha BSC","Ger","AS Roma","Ita","1-3","INTER-CITIES FAIRS CUP","Round 1",1964
+"138","Hertha BSC","Ger","AS Roma","Ita","0-2","INTER-CITIES FAIRS CUP","Round 1",1964
+"139","SC Leipzig","GDR","Újpest Dózsa","Hun","0-0","INTER-CITIES FAIRS CUP","Round 1",1964
+"140","SC Leipzig","GDR","Újpest Dózsa","Hun","2-3","INTER-CITIES FAIRS CUP","Round 1",1964
+"141","Steagul Rosu Brasov","Rom","Lokomotiv Plovdiv","Bul","1-3","INTER-CITIES FAIRS CUP","Round 1",1964
+"142","Steagul Rosu Brasov","Rom","Lokomotiv Plovdiv","Bul","1-2","INTER-CITIES FAIRS CUP","Round 1",1964
+"143","Rapid Wien","Aut","RC Paris","Fra","1-0","INTER-CITIES FAIRS CUP","Round 1",1964
+"144","Rapid Wien","Aut","RC Paris","Fra","3-2","INTER-CITIES FAIRS CUP","Round 1",1964
+"145","Shamrock Rovers","Irl","Valencia","Esp","0-1","INTER-CITIES FAIRS CUP","Round 1",1964
+"146","Shamrock Rovers","Irl","Valencia","Esp","2-2","INTER-CITIES FAIRS CUP","Round 1",1964
+"147","Lausanne Sports","Sui","Real Zaragoza","Esp","1-2","INTER-CITIES FAIRS CUP","Round 2",1964
+"148","Lausanne Sports","Sui","Real Zaragoza","Esp","0-3","INTER-CITIES FAIRS CUP","Round 2",1964
+"149","Juventus","Ita","Atlético Madrid","Esp","1-0","INTER-CITIES FAIRS CUP","Round 2",1964
+"150","Juventus","Ita","Atlético Madrid","Esp","2-1","INTER-CITIES FAIRS CUP","Round 2",1964
+"151","Partick Thistle","Sco","Spartak Brno","TCH","3-2","INTER-CITIES FAIRS CUP","Round 2",1964
+"152","Partick Thistle","Sco","Spartak Brno","TCH","0-4","INTER-CITIES FAIRS CUP","Round 2",1964
+"153","Arsenal","Eng","FC Liège","Bel","1-1","INTER-CITIES FAIRS CUP","Round 2",1964
+"154","Arsenal","Eng","FC Liège","Bel","1-3","INTER-CITIES FAIRS CUP","Round 2",1964
+"155","1.FC Köln","Ger","Sheffield Wednesday","Eng","3-2","INTER-CITIES FAIRS CUP","Round 2",1964
+"156","1.FC Köln","Ger","Sheffield Wednesday","Eng","2-1","INTER-CITIES FAIRS CUP","Round 2",1964
+"157","AS Roma","Ita","CF Os Belenenses","Por","2-1","INTER-CITIES FAIRS CUP","Round 2",1964
+"158","AS Roma","Ita","CF Os Belenenses","Por","1-0","INTER-CITIES FAIRS CUP","Round 2",1964
+"159","Újpest Dózsa","Hun","Lokomotiv Plovdiv","Bul","0-0","INTER-CITIES FAIRS CUP","Round 2",1964
+"160","Újpest Dózsa","Hun","Lokomotiv Plovdiv","Bul","3-1","INTER-CITIES FAIRS CUP","Round 2",1964
+"161","Rapid Wien","Aut","Valencia","Esp","0-0","INTER-CITIES FAIRS CUP","Round 2",1964
+"162","Rapid Wien","Aut","Valencia","Esp","2-3","INTER-CITIES FAIRS CUP","Round 2",1964
+"163","Real Zaragoza","Esp","Juventus","Ita","3-2","INTER-CITIES FAIRS CUP","Quarter Finals",1964
+"164","Real Zaragoza","Esp","Juventus","Ita","0-0","INTER-CITIES FAIRS CUP","Quarter Finals",1964
+"165","FC Liège","Bel","Spartak Brno","TCH","2-0","INTER-CITIES FAIRS CUP","Quarter Finals",1964
+"166","FC Liège","Bel","Spartak Brno","TCH","0-2","INTER-CITIES FAIRS CUP","Quarter Finals",1964
+"167","AS Roma","Ita","1.FC Köln","Ger","3-1","INTER-CITIES FAIRS CUP","Quarter Finals",1964
+"168","AS Roma","Ita","1.FC Köln","Ger","0-4","INTER-CITIES FAIRS CUP","Quarter Finals",1964
+"169","Valencia","Esp","Újpest Dózsa","Hun","5-2","INTER-CITIES FAIRS CUP","Quarter Finals",1964
+"170","Valencia","Esp","Újpest Dózsa","Hun","1-3","INTER-CITIES FAIRS CUP","Quarter Finals",1964
+"171","FC Liège","Bel","Real Zaragoza","Esp","1-0","INTER-CITIES FAIRS CUP","Semi Finals",1964
+"172","FC Liège","Bel","Real Zaragoza","Esp","1-2","INTER-CITIES FAIRS CUP","Semi Finals",1964
+"173","Valencia","Esp","1.FC Köln","Ger","4-1","INTER-CITIES FAIRS CUP","Semi Finals",1964
+"174","Valencia","Esp","1.FC Köln","Ger","0-2","INTER-CITIES FAIRS CUP","Semi Finals",1964
+"175","Real Zaragoza","Esp","Valencia","Esp","2-1","INTER-CITIES FAIRS CUP","Final",1964

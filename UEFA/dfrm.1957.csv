@@ -1,42 +1,42 @@
-"home.team" "home.ctry" "away.team" "away.ctry" "match" "tournament" "round"
-"1" "AGF Aarhus" "Den" "OGC Nice" "Fra" "1-1" "CHAMPIONS CUP" "Qualifying Round"
-"2" "AGF Aarhus" "Den" "OGC Nice" "Fra" "1-5" "CHAMPIONS CUP" "Qualifying Round"
-"3" "FC Porto" "Por" "Athletic Bilbao" "Esp" "1-2" "CHAMPIONS CUP" "Qualifying Round"
-"4" "FC Porto" "Por" "Athletic Bilbao" "Esp" "2-3" "CHAMPIONS CUP" "Qualifying Round"
-"5" "Anderlecht" "Bel" "Manchester United" "Eng" "0-2" "CHAMPIONS CUP" "Qualifying Round"
-"6" "Anderlecht" "Bel" "Manchester United" "Eng" "0-10" "CHAMPIONS CUP" "Qualifying Round"
-"7" "Borussia Dortmund" "Ger" "CA Spora Luxembourg" "Lux" "4-3" "CHAMPIONS CUP" "Qualifying Round"
-"8" "Borussia Dortmund" "Ger" "CA Spora Luxembourg" "Lux" "1-2" "CHAMPIONS CUP" "Qualifying Round"
-"9" "Dinamo Bucuresti" "Rom" "Galatasaray" "Tur" "3-1" "CHAMPIONS CUP" "Qualifying Round"
-"10" "Dinamo Bucuresti" "Rom" "Galatasaray" "Tur" "1-2" "CHAMPIONS CUP" "Qualifying Round"
-"11" "Slovan Bratislava" "TCH" "CWKS Warsaw" "Pol" "4-0" "CHAMPIONS CUP" "Qualifying Round"
-"12" "Slovan Bratislava" "TCH" "CWKS Warsaw" "Pol" "0-2" "CHAMPIONS CUP" "Qualifying Round"
-"13" "Real Madrid" "Esp" "Rapid Wien" "Aut" "4-2" "CHAMPIONS CUP" "Round 1"
-"14" "Real Madrid" "Esp" "Rapid Wien" "Aut" "1-3" "CHAMPIONS CUP" "Round 1"
-"15" "Glasgow Rangers" "Sco" "OGC Nice" "Fra" "2-1" "CHAMPIONS CUP" "Round 1"
-"16" "Glasgow Rangers" "Sco" "OGC Nice" "Fra" "1-2" "CHAMPIONS CUP" "Round 1"
-"17" "Athletic Bilbao" "Esp" "Honv�d Budapest" "Hun" "3-2" "CHAMPIONS CUP" "Round 1"
-"18" "Athletic Bilbao" "Esp" "Honv�d Budapest" "Hun" "3-3" "CHAMPIONS CUP" "Round 1"
-"19" "Manchester United" "Eng" "Borussia Dortmund" "Ger" "3-2" "CHAMPIONS CUP" "Round 1"
-"20" "Manchester United" "Eng" "Borussia Dortmund" "Ger" "0-0" "CHAMPIONS CUP" "Round 1"
-"21" "Rapid JC Heerlen" "Ned" "Red Star Belgrade" "YUG" "3-4" "CHAMPIONS CUP" "Round 1"
-"22" "Rapid JC Heerlen" "Ned" "Red Star Belgrade" "YUG" "0-2" "CHAMPIONS CUP" "Round 1"
-"23" "CDNA Sofia" "Bul" "Dinamo Bucuresti" "Rom" "8-1" "CHAMPIONS CUP" "Round 1"
-"24" "CDNA Sofia" "Bul" "Dinamo Bucuresti" "Rom" "2-3" "CHAMPIONS CUP" "Round 1"
-"25" "Slovan Bratislava" "TCH" "Grasshoppers Zürich" "Sui" "1-0" "CHAMPIONS CUP" "Round 1"
-"26" "Slovan Bratislava" "TCH" "Grasshoppers Zürich" "Sui" "0-2" "CHAMPIONS CUP" "Round 1"
-"27" "Fiorentina" "Ita" "IFK Norrköping" "Swe" "1-1" "CHAMPIONS CUP" "Round 1"
-"28" "Fiorentina" "Ita" "IFK Norrköping" "Swe" "1-0" "CHAMPIONS CUP" "Round 1"
-"29" "Real Madrid" "Esp" "OGC Nice" "Fra" "3-0" "CHAMPIONS CUP" "Quarter Finals"
-"30" "Real Madrid" "Esp" "OGC Nice" "Fra" "3-2" "CHAMPIONS CUP" "Quarter Finals"
-"31" "Athletic Bilbao" "Esp" "Manchester United" "Eng" "5-3" "CHAMPIONS CUP" "Quarter Finals"
-"32" "Athletic Bilbao" "Esp" "Manchester United" "Eng" "0-3" "CHAMPIONS CUP" "Quarter Finals"
-"33" "Red Star Belgrade" "YUG" "CDNA Sofia" "Bul" "3-1" "CHAMPIONS CUP" "Quarter Finals"
-"34" "Red Star Belgrade" "YUG" "CDNA Sofia" "Bul" "1-2" "CHAMPIONS CUP" "Quarter Finals"
-"35" "Fiorentina" "Ita" "Grasshoppers Zürich" "Sui" "3-1" "CHAMPIONS CUP" "Quarter Finals"
-"36" "Fiorentina" "Ita" "Grasshoppers Zürich" "Sui" "2-2" "CHAMPIONS CUP" "Quarter Finals"
-"37" "Real Madrid" "Esp" "Manchester United" "Eng" "3-1" "CHAMPIONS CUP" "Semi Finals"
-"38" "Real Madrid" "Esp" "Manchester United" "Eng" "2-2" "CHAMPIONS CUP" "Semi Finals"
-"39" "Red Star Belgrade" "YUG" "Fiorentina" "Ita" "0-1" "CHAMPIONS CUP" "Semi Finals"
-"40" "Red Star Belgrade" "YUG" "Fiorentina" "Ita" "0-0" "CHAMPIONS CUP" "Semi Finals"
-"41" "Real Madrid" "Esp" "Fiorentina" "Ita" "2-0" "CHAMPIONS CUP" "Final"
+"","home.team","home.ctry","away.team","away.ctry","match","tournament","round","V8"
+"1","AGF Aarhus","Den","OGC Nice","Fra","1-1","CHAMPIONS CUP","Qualifying Round",1957
+"2","AGF Aarhus","Den","OGC Nice","Fra","1-5","CHAMPIONS CUP","Qualifying Round",1957
+"3","FC Porto","Por","Athletic Bilbao","Esp","1-2","CHAMPIONS CUP","Qualifying Round",1957
+"4","FC Porto","Por","Athletic Bilbao","Esp","2-3","CHAMPIONS CUP","Qualifying Round",1957
+"5","Anderlecht","Bel","Manchester United","Eng","0-2","CHAMPIONS CUP","Qualifying Round",1957
+"6","Anderlecht","Bel","Manchester United","Eng","0-10","CHAMPIONS CUP","Qualifying Round",1957
+"7","Borussia Dortmund","Ger","CA Spora Luxembourg","Lux","4-3","CHAMPIONS CUP","Qualifying Round",1957
+"8","Borussia Dortmund","Ger","CA Spora Luxembourg","Lux","1-2","CHAMPIONS CUP","Qualifying Round",1957
+"9","Dinamo Bucuresti","Rom","Galatasaray","Tur","3-1","CHAMPIONS CUP","Qualifying Round",1957
+"10","Dinamo Bucuresti","Rom","Galatasaray","Tur","1-2","CHAMPIONS CUP","Qualifying Round",1957
+"11","Slovan Bratislava","TCH","CWKS Warsaw","Pol","4-0","CHAMPIONS CUP","Qualifying Round",1957
+"12","Slovan Bratislava","TCH","CWKS Warsaw","Pol","0-2","CHAMPIONS CUP","Qualifying Round",1957
+"13","Real Madrid","Esp","Rapid Wien","Aut","4-2","CHAMPIONS CUP","Round 1",1957
+"14","Real Madrid","Esp","Rapid Wien","Aut","1-3","CHAMPIONS CUP","Round 1",1957
+"15","Glasgow Rangers","Sco","OGC Nice","Fra","2-1","CHAMPIONS CUP","Round 1",1957
+"16","Glasgow Rangers","Sco","OGC Nice","Fra","1-2","CHAMPIONS CUP","Round 1",1957
+"17","Athletic Bilbao","Esp","Honv�d Budapest","Hun","3-2","CHAMPIONS CUP","Round 1",1957
+"18","Athletic Bilbao","Esp","Honv�d Budapest","Hun","3-3","CHAMPIONS CUP","Round 1",1957
+"19","Manchester United","Eng","Borussia Dortmund","Ger","3-2","CHAMPIONS CUP","Round 1",1957
+"20","Manchester United","Eng","Borussia Dortmund","Ger","0-0","CHAMPIONS CUP","Round 1",1957
+"21","Rapid JC Heerlen","Ned","Red Star Belgrade","YUG","3-4","CHAMPIONS CUP","Round 1",1957
+"22","Rapid JC Heerlen","Ned","Red Star Belgrade","YUG","0-2","CHAMPIONS CUP","Round 1",1957
+"23","CDNA Sofia","Bul","Dinamo Bucuresti","Rom","8-1","CHAMPIONS CUP","Round 1",1957
+"24","CDNA Sofia","Bul","Dinamo Bucuresti","Rom","2-3","CHAMPIONS CUP","Round 1",1957
+"25","Slovan Bratislava","TCH","Grasshoppers Zürich","Sui","1-0","CHAMPIONS CUP","Round 1",1957
+"26","Slovan Bratislava","TCH","Grasshoppers Zürich","Sui","0-2","CHAMPIONS CUP","Round 1",1957
+"27","Fiorentina","Ita","IFK Norrköping","Swe","1-1","CHAMPIONS CUP","Round 1",1957
+"28","Fiorentina","Ita","IFK Norrköping","Swe","1-0","CHAMPIONS CUP","Round 1",1957
+"29","Real Madrid","Esp","OGC Nice","Fra","3-0","CHAMPIONS CUP","Quarter Finals",1957
+"30","Real Madrid","Esp","OGC Nice","Fra","3-2","CHAMPIONS CUP","Quarter Finals",1957
+"31","Athletic Bilbao","Esp","Manchester United","Eng","5-3","CHAMPIONS CUP","Quarter Finals",1957
+"32","Athletic Bilbao","Esp","Manchester United","Eng","0-3","CHAMPIONS CUP","Quarter Finals",1957
+"33","Red Star Belgrade","YUG","CDNA Sofia","Bul","3-1","CHAMPIONS CUP","Quarter Finals",1957
+"34","Red Star Belgrade","YUG","CDNA Sofia","Bul","1-2","CHAMPIONS CUP","Quarter Finals",1957
+"35","Fiorentina","Ita","Grasshoppers Zürich","Sui","3-1","CHAMPIONS CUP","Quarter Finals",1957
+"36","Fiorentina","Ita","Grasshoppers Zürich","Sui","2-2","CHAMPIONS CUP","Quarter Finals",1957
+"37","Real Madrid","Esp","Manchester United","Eng","3-1","CHAMPIONS CUP","Semi Finals",1957
+"38","Real Madrid","Esp","Manchester United","Eng","2-2","CHAMPIONS CUP","Semi Finals",1957
+"39","Red Star Belgrade","YUG","Fiorentina","Ita","0-1","CHAMPIONS CUP","Semi Finals",1957
+"40","Red Star Belgrade","YUG","Fiorentina","Ita","0-0","CHAMPIONS CUP","Semi Finals",1957
+"41","Real Madrid","Esp","Fiorentina","Ita","2-0","CHAMPIONS CUP","Final",1957

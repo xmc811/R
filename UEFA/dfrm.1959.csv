@@ -1,50 +1,50 @@
-"home.team" "home.ctry" "away.team" "away.ctry" "match" "tournament" "round"
-"1" "Juventus" "Ita" "Wiener Sportklub" "Aut" "3-1" "CHAMPIONS CUP" "Qualifying Round"
-"2" "Juventus" "Ita" "Wiener Sportklub" "Aut" "0-7" "CHAMPIONS CUP" "Qualifying Round"
-"3" "Dinamo Zagreb" "YUG" "Dukla Praha" "TCH" "2-2" "CHAMPIONS CUP" "Qualifying Round"
-"4" "Dinamo Zagreb" "YUG" "Dukla Praha" "TCH" "1-2" "CHAMPIONS CUP" "Qualifying Round"
-"5" "KB K�benhavn" "Den" "Schalke 04" "Ger" "3-0" "CHAMPIONS CUP" "Qualifying Round"
-"6" "KB K�benhavn" "Den" "Schalke 04" "Ger" "2-5" "CHAMPIONS CUP" "Qualifying Round"
-"7" "Atlético Madrid" "Esp" "Drumcondra FC" "Irl" "8-0" "CHAMPIONS CUP" "Qualifying Round"
-"8" "Atlético Madrid" "Esp" "Drumcondra FC" "Irl" "5-1" "CHAMPIONS CUP" "Qualifying Round"
-"9" "Wismut Karl-Marx-Stadt" "GDR" "Petrolul Ploiesti" "Rom" "4-2" "CHAMPIONS CUP" "Qualifying Round"
-"10" "Wismut Karl-Marx-Stadt" "GDR" "Petrolul Ploiesti" "Rom" "0-2" "CHAMPIONS CUP" "Qualifying Round"
-"11" "Jeunesse d'Esch" "Lux" "IFK Göteborg" "Swe" "1-2" "CHAMPIONS CUP" "Qualifying Round"
-"12" "Jeunesse d'Esch" "Lux" "IFK Göteborg" "Swe" "1-0" "CHAMPIONS CUP" "Qualifying Round"
-"13" "Polonia Bytom" "Pol" "MTK Budapest" "Hun" "0-3" "CHAMPIONS CUP" "Qualifying Round"
-"14" "Polonia Bytom" "Pol" "MTK Budapest" "Hun" "0-3" "CHAMPIONS CUP" "Qualifying Round"
-"15" "DOS Utrecht" "Ned" "Sporting CP Lisbon" "Por" "3-4" "CHAMPIONS CUP" "Qualifying Round"
-"16" "DOS Utrecht" "Ned" "Sporting CP Lisbon" "Por" "1-2" "CHAMPIONS CUP" "Qualifying Round"
-"17" "Standard Liège" "Bel" "Hearts FC" "Sco" "5-1" "CHAMPIONS CUP" "Qualifying Round"
-"18" "Standard Liège" "Bel" "Hearts FC" "Sco" "1-2" "CHAMPIONS CUP" "Qualifying Round"
-"19" "Ards FC" "Nir" "Stade de Reims" "Fra" "1-4" "CHAMPIONS CUP" "Qualifying Round"
-"20" "Ards FC" "Nir" "Stade de Reims" "Fra" "2-6" "CHAMPIONS CUP" "Qualifying Round"
-"21" "Real Madrid" "Esp" "Besiktas" "Tur" "2-0" "CHAMPIONS CUP" "Round 1"
-"22" "Real Madrid" "Esp" "Besiktas" "Tur" "1-1" "CHAMPIONS CUP" "Round 1"
-"23" "Wiener Sportklub" "Aut" "Dukla Praha" "TCH" "3-1" "CHAMPIONS CUP" "Round 1"
-"24" "Wiener Sportklub" "Aut" "Dukla Praha" "TCH" "0-1" "CHAMPIONS CUP" "Round 1"
-"25" "Wolverhampton Wanderers" "Eng" "Schalke 04" "Ger" "2-2" "CHAMPIONS CUP" "Round 1"
-"26" "Wolverhampton Wanderers" "Eng" "Schalke 04" "Ger" "1-2" "CHAMPIONS CUP" "Round 1"
-"27" "Atlético Madrid" "Esp" "CDNA Sofia" "Bul" "2-1" "CHAMPIONS CUP" "Round 1"
-"28" "Atlético Madrid" "Esp" "CDNA Sofia" "Bul" "0-1" "CHAMPIONS CUP" "Round 1"
-"29" "MTK Budapest" "Hun" "Young Boys" "Sui" "1-2" "CHAMPIONS CUP" "Round 1"
-"30" "MTK Budapest" "Hun" "Young Boys" "Sui" "1-4" "CHAMPIONS CUP" "Round 1"
-"31" "IFK Göteborg" "Swe" "Wismut Karl-Marx-Stadt" "GDR" "2-2" "CHAMPIONS CUP" "Round 1"
-"32" "IFK Göteborg" "Swe" "Wismut Karl-Marx-Stadt" "GDR" "0-4" "CHAMPIONS CUP" "Round 1"
-"33" "Sporting CP Lisbon" "Por" "Standard Liège" "Bel" "2-3" "CHAMPIONS CUP" "Round 1"
-"34" "Sporting CP Lisbon" "Por" "Standard Liège" "Bel" "0-3" "CHAMPIONS CUP" "Round 1"
-"35" "Stade de Reims" "Fra" "HPS Helsinki" "Fin" "4-0" "CHAMPIONS CUP" "Round 1"
-"36" "Stade de Reims" "Fra" "HPS Helsinki" "Fin" "3-0" "CHAMPIONS CUP" "Round 1"
-"37" "Wiener Sportklub" "Aut" "Real Madrid" "Esp" "0-0" "CHAMPIONS CUP" "Quarter Finals"
-"38" "Wiener Sportklub" "Aut" "Real Madrid" "Esp" "1-7" "CHAMPIONS CUP" "Quarter Finals"
-"39" "Atlético Madrid" "Esp" "Schalke 04" "Ger" "3-0" "CHAMPIONS CUP" "Quarter Finals"
-"40" "Atlético Madrid" "Esp" "Schalke 04" "Ger" "1-1" "CHAMPIONS CUP" "Quarter Finals"
-"41" "Young Boys" "Sui" "Wismut Karl-Marx-Stadt" "GDR" "2-2" "CHAMPIONS CUP" "Quarter Finals"
-"42" "Young Boys" "Sui" "Wismut Karl-Marx-Stadt" "GDR" "0-0" "CHAMPIONS CUP" "Quarter Finals"
-"43" "Standard Liège" "Bel" "Stade de Reims" "Fra" "2-0" "CHAMPIONS CUP" "Quarter Finals"
-"44" "Standard Liège" "Bel" "Stade de Reims" "Fra" "0-3" "CHAMPIONS CUP" "Quarter Finals"
-"45" "Real Madrid" "Esp" "Atlético Madrid" "Esp" "2-1" "CHAMPIONS CUP" "Semi Finals"
-"46" "Real Madrid" "Esp" "Atlético Madrid" "Esp" "0-1" "CHAMPIONS CUP" "Semi Finals"
-"47" "Young Boys" "Sui" "Stade de Reims" "Fra" "1-0" "CHAMPIONS CUP" "Semi Finals"
-"48" "Young Boys" "Sui" "Stade de Reims" "Fra" "0-3" "CHAMPIONS CUP" "Semi Finals"
-"49" "Real Madrid" "Esp" "Stade de Reims" "Fra" "2-0" "CHAMPIONS CUP" "Final"
+"","home.team","home.ctry","away.team","away.ctry","match","tournament","round","V8"
+"1","Juventus","Ita","Wiener Sportklub","Aut","3-1","CHAMPIONS CUP","Qualifying Round",1959
+"2","Juventus","Ita","Wiener Sportklub","Aut","0-7","CHAMPIONS CUP","Qualifying Round",1959
+"3","Dinamo Zagreb","YUG","Dukla Praha","TCH","2-2","CHAMPIONS CUP","Qualifying Round",1959
+"4","Dinamo Zagreb","YUG","Dukla Praha","TCH","1-2","CHAMPIONS CUP","Qualifying Round",1959
+"5","KB K�benhavn","Den","Schalke 04","Ger","3-0","CHAMPIONS CUP","Qualifying Round",1959
+"6","KB K�benhavn","Den","Schalke 04","Ger","2-5","CHAMPIONS CUP","Qualifying Round",1959
+"7","Atlético Madrid","Esp","Drumcondra FC","Irl","8-0","CHAMPIONS CUP","Qualifying Round",1959
+"8","Atlético Madrid","Esp","Drumcondra FC","Irl","5-1","CHAMPIONS CUP","Qualifying Round",1959
+"9","Wismut Karl-Marx-Stadt","GDR","Petrolul Ploiesti","Rom","4-2","CHAMPIONS CUP","Qualifying Round",1959
+"10","Wismut Karl-Marx-Stadt","GDR","Petrolul Ploiesti","Rom","0-2","CHAMPIONS CUP","Qualifying Round",1959
+"11","Jeunesse d'Esch","Lux","IFK Göteborg","Swe","1-2","CHAMPIONS CUP","Qualifying Round",1959
+"12","Jeunesse d'Esch","Lux","IFK Göteborg","Swe","1-0","CHAMPIONS CUP","Qualifying Round",1959
+"13","Polonia Bytom","Pol","MTK Budapest","Hun","0-3","CHAMPIONS CUP","Qualifying Round",1959
+"14","Polonia Bytom","Pol","MTK Budapest","Hun","0-3","CHAMPIONS CUP","Qualifying Round",1959
+"15","DOS Utrecht","Ned","Sporting CP Lisbon","Por","3-4","CHAMPIONS CUP","Qualifying Round",1959
+"16","DOS Utrecht","Ned","Sporting CP Lisbon","Por","1-2","CHAMPIONS CUP","Qualifying Round",1959
+"17","Standard Liège","Bel","Hearts FC","Sco","5-1","CHAMPIONS CUP","Qualifying Round",1959
+"18","Standard Liège","Bel","Hearts FC","Sco","1-2","CHAMPIONS CUP","Qualifying Round",1959
+"19","Ards FC","Nir","Stade de Reims","Fra","1-4","CHAMPIONS CUP","Qualifying Round",1959
+"20","Ards FC","Nir","Stade de Reims","Fra","2-6","CHAMPIONS CUP","Qualifying Round",1959
+"21","Real Madrid","Esp","Besiktas","Tur","2-0","CHAMPIONS CUP","Round 1",1959
+"22","Real Madrid","Esp","Besiktas","Tur","1-1","CHAMPIONS CUP","Round 1",1959
+"23","Wiener Sportklub","Aut","Dukla Praha","TCH","3-1","CHAMPIONS CUP","Round 1",1959
+"24","Wiener Sportklub","Aut","Dukla Praha","TCH","0-1","CHAMPIONS CUP","Round 1",1959
+"25","Wolverhampton Wanderers","Eng","Schalke 04","Ger","2-2","CHAMPIONS CUP","Round 1",1959
+"26","Wolverhampton Wanderers","Eng","Schalke 04","Ger","1-2","CHAMPIONS CUP","Round 1",1959
+"27","Atlético Madrid","Esp","CDNA Sofia","Bul","2-1","CHAMPIONS CUP","Round 1",1959
+"28","Atlético Madrid","Esp","CDNA Sofia","Bul","0-1","CHAMPIONS CUP","Round 1",1959
+"29","MTK Budapest","Hun","Young Boys","Sui","1-2","CHAMPIONS CUP","Round 1",1959
+"30","MTK Budapest","Hun","Young Boys","Sui","1-4","CHAMPIONS CUP","Round 1",1959
+"31","IFK Göteborg","Swe","Wismut Karl-Marx-Stadt","GDR","2-2","CHAMPIONS CUP","Round 1",1959
+"32","IFK Göteborg","Swe","Wismut Karl-Marx-Stadt","GDR","0-4","CHAMPIONS CUP","Round 1",1959
+"33","Sporting CP Lisbon","Por","Standard Liège","Bel","2-3","CHAMPIONS CUP","Round 1",1959
+"34","Sporting CP Lisbon","Por","Standard Liège","Bel","0-3","CHAMPIONS CUP","Round 1",1959
+"35","Stade de Reims","Fra","HPS Helsinki","Fin","4-0","CHAMPIONS CUP","Round 1",1959
+"36","Stade de Reims","Fra","HPS Helsinki","Fin","3-0","CHAMPIONS CUP","Round 1",1959
+"37","Wiener Sportklub","Aut","Real Madrid","Esp","0-0","CHAMPIONS CUP","Quarter Finals",1959
+"38","Wiener Sportklub","Aut","Real Madrid","Esp","1-7","CHAMPIONS CUP","Quarter Finals",1959
+"39","Atlético Madrid","Esp","Schalke 04","Ger","3-0","CHAMPIONS CUP","Quarter Finals",1959
+"40","Atlético Madrid","Esp","Schalke 04","Ger","1-1","CHAMPIONS CUP","Quarter Finals",1959
+"41","Young Boys","Sui","Wismut Karl-Marx-Stadt","GDR","2-2","CHAMPIONS CUP","Quarter Finals",1959
+"42","Young Boys","Sui","Wismut Karl-Marx-Stadt","GDR","0-0","CHAMPIONS CUP","Quarter Finals",1959
+"43","Standard Liège","Bel","Stade de Reims","Fra","2-0","CHAMPIONS CUP","Quarter Finals",1959
+"44","Standard Liège","Bel","Stade de Reims","Fra","0-3","CHAMPIONS CUP","Quarter Finals",1959
+"45","Real Madrid","Esp","Atlético Madrid","Esp","2-1","CHAMPIONS CUP","Semi Finals",1959
+"46","Real Madrid","Esp","Atlético Madrid","Esp","0-1","CHAMPIONS CUP","Semi Finals",1959
+"47","Young Boys","Sui","Stade de Reims","Fra","1-0","CHAMPIONS CUP","Semi Finals",1959
+"48","Young Boys","Sui","Stade de Reims","Fra","0-3","CHAMPIONS CUP","Semi Finals",1959
+"49","Real Madrid","Esp","Stade de Reims","Fra","2-0","CHAMPIONS CUP","Final",1959
