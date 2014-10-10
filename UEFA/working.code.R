@@ -8,7 +8,7 @@ library(XML)
 # import the library for XML webpage scraping
 
 
-url <- "http://kassiesa.home.xs4all.nl/bert/uefa/data/method1/match1965.html"
+url <- "http://kassiesa.home.xs4all.nl/bert/uefa/data/method1/match1966.html"
 # enter the url for data retrieving
 
 
@@ -51,9 +51,9 @@ record <- record[!grepl("\n",record)]
 # delete special lines including "\n"
 
 record <- append(record,NA,after=374)
-record <- append(record,NA,after=633)
-record <- append(record,NA,after=352)
-record <- append(record,NA,after=179)
+record <- append(record,NA,after=357)
+record <- append(record,NA,after=178)
+record <- append(record,NA,after=101)
 
 # manually append an NA value for empty scores
 # this can be dropped by future manipulations
@@ -82,8 +82,8 @@ match.number <- length(match)
 
 
 tour.seq.1 <- c(30,16,8,4,2)
-tour.seq.2 <- c(28,16,8,4,2)
-tour.seq.3 <- c(48,24,12,4,4,2)
+tour.seq.2 <- c(30,16,8,4,2)
+tour.seq.3 <- c(32,32,16,8,4,2)
 
 sum1 <- sum(tour.seq.1)
 sum2 <- sum(tour.seq.2)
@@ -134,7 +134,9 @@ dfrm <- dfrm.raw[complete.cases(dfrm.raw[,5]),]
 
 rm(dfrm.raw)
 
-write.table(dfrm,"dfrm.1965.csv")
+dfrm <- cbind(dfrm,rep(1966,nrow(dfrm)))
+
+write.table(dfrm,"dfrm.1966.csv")
 
 
 
