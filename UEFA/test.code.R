@@ -108,5 +108,5 @@ dfrm.1956 <- (cbind(home.team=home.team.1956,home.ctry=home.ctry.1956,away.team=
                     round=roundlist.1956))[1:match.number,]
 
 
-
+write.table(dfrm.1956,"dfrm.1956.csv")
 
