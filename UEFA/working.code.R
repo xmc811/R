@@ -8,7 +8,7 @@ library(XML)
 # import the library for XML webpage scraping
 
 
-url <- "http://kassiesa.home.xs4all.nl/bert/uefa/data/method1/match1971.html"
+url <- "http://kassiesa.home.xs4all.nl/bert/uefa/data/method1/match1980.html"
 # enter the url for data retrieving
 
 
@@ -52,9 +52,9 @@ record <- record[!grepl("\n",record)]
 
 record <- record[!grepl("coin",record)]
 
-record <- append(record,NA,after=374)
-record <- append(record,NA,after=357)
-record <- append(record,NA,after=388)
+record <- append(record,NA,after=386)
+record <- append(record,NA,after=297)
+record <- append(record,NA,after=297)
 record <- append(record,NA,after=191)
 
 # manually append an NA value for empty scores
@@ -136,11 +136,11 @@ dfrm <- dfrm.raw[complete.cases(dfrm.raw[,5]),]
 
 rm(dfrm.raw)
 
-dfrm <- cbind(dfrm,rep(1971,nrow(dfrm)))
+dfrm <- cbind(dfrm,rep(1980,nrow(dfrm)))
 # add year of the data
 
 
-write.csv(dfrm,"dfrm.1971.csv")
+write.csv(dfrm,"dfrm.1980.csv")
 # output the data
 
 
