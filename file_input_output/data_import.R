@@ -65,6 +65,23 @@ libary(xlsx)
 read.xlsx("./GetData/camara.csv",sheetIndex=1,header=TRUE)
 # this function is used to read data from xlsx, contains some useful parameters
 
+
+
+
+# one thing about importin csv file directly from URL
+install.packages("RCurl")
+library(RCurl)
+
+x <- getURI("https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2Fss06hid.csv")
+data <- read.csv(text=x)
+
+# we need RCurl for getting arond the https problem.
+
+
+
+
+# this section is about extracting data from XML document
+
 install.packages('XML')
 library(XML)
 # this can install the XML package
