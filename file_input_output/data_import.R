@@ -68,15 +68,26 @@ read.xlsx("./GetData/camara.csv",sheetIndex=1,header=TRUE)
 
 
 
-# one thing about importin csv file directly from URL
+# one thing about importing csv file directly from URL
 install.packages("RCurl")
 library(RCurl)
 
 x <- getURI("https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2Fss06hid.csv")
+
 data <- read.csv(text=x)
 
 # we need RCurl for getting arond the https problem.
 
+### important!
+# in windows, directly getURI will probably have error message: 
+###
+# Error in function (type, msg, asError = TRUE)  : 
+# SSL certificate problem, verify that the CA cert is OK. Details:
+# error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed
+###
+# following codes will help with unknown reason...
+
+options(RCurlOptions = list(cainfo = system.file("CurlSSL", "cacert.pem", package = "RCurl")))
 
 
 
