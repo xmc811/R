@@ -1,5 +1,5 @@
 
-setwd("../Desktop/RP/SRF/WES_102014/")
+setwd("C:/Users/HGSC/Desktop/RP/BATCH-2/")
 
 getwd()
 
@@ -63,7 +63,7 @@ count <- function(string,vector) {
 }
 
 
-test <- Batch[1:500,]
+
 
 
 
@@ -132,6 +132,8 @@ batchselectTwohit <- function(data) {
        Batch2hit <<- Twohit
        write.csv(Batch2hit,"Twohit.vcf")
 }
+
+
 
 batchselectTwohit(Batch)
 
