@@ -1,13 +1,4 @@
 
-setwd("C:/Users/HGSC/Desktop/RP/BATCH-2/")
-
-getwd()
-
-x <- read.table("SRF988.filt_indel.vcf",header=F)
-# read.delim is used to read vcf files
-# Note; diffrent vcf files have different headers in certain column
-# thus, read,table() is still recommended
-
 
 
 
@@ -24,28 +15,41 @@ vcfParse <- function(data) {
               ref[i] <- substr(read[i],pattern[[i]][2]+1,pattern[[i]][3]-1)
        }
        
-       parsed <- cbind(data[,1:2],data[,4:5],alt,ref,data[,11:23])
-       
+       parsed <- cbind(data[,1:2],data[,4:5],alt,ref,data[,11:ncol(data)])
+
        parsed
+       # return parsed dataframe
        
 }
 
 
-
+## this is the function to 
 
 batchVcf <- function() {
+       
+       library(plyr)
        
        vcfList <- list.files(pattern="*.vcf")
        batchData <- data.frame()
        
        for (i in vcfList) {
-              data <- read.table(i,header=F)
+              data <- read.table(i,header=F, sep="\t", fill = TRUE, stringsAsFactors = FALSE)
+              ## exclude headers, seperated by tab, avoid factors
+              
+              
               record <- vcfParse(data)
               
-              batchData <- rbind(batchData,record)
+              
+              batchData <- rbind.fill(batchData,record)
+              # avoid unequal column length
+              
+              
        }
        
-       write.csv(batchData,"batch.vcf")
+       batchData$alt <- as.numeric(as.character(batchData$alt))
+       batchData$ref <- as.numeric(as.character(batchData$ref))
+       # must have two-step
+       
        
        Batch <<- batchData
 }
@@ -55,6 +59,7 @@ batchVcf <- function() {
 
 
 batchVcf()
+
 
 
 count <- function(string,vector) {
@@ -103,18 +108,6 @@ selectTwohit <- function(data) {
 
 
 
-
-
-x <- selectTwohit(test)
-
-
-
-
-
-
-
-
-
 batchselectTwohit <- function(data) {
        
        sampleID <- factor(data[,12])
@@ -130,11 +123,16 @@ batchselectTwohit <- function(data) {
        }
 
        Batch2hit <<- Twohit
-       write.csv(Batch2hit,"Twohit.vcf")
+
 }
 
 
 
 batchselectTwohit(Batch)
+
+
+write.table(Batch, file ="Batch.vcf", sep = "\t")
+
+write.table(Batch2hit, file ="Twohit.vcf", sep = "\t")
 
 
