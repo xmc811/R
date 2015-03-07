@@ -1,5 +1,5 @@
 
-setwd("C:/Users/HGSC/Desktop/Uyg/")
+setwd("C:/Users/HGSC/Desktop/RP/Miami/QC/")
 
 
 # the function to calculate evenness
