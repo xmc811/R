@@ -2,6 +2,7 @@
 
 
 ## this file contains codes analyzing mouse holeboard poking behaviour data
+## Today is 12/18/18. Who wants to analyze mouse data anymore???
 
 Hbd20140424seq <- read.csv("20140424Hbd_seq.csv")
 # read the data
