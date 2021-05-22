@@ -1,3 +1,2 @@
-### This is the repository storing old R codes
+### This is the repository hosting some R code before 2017
 
-Some test changes for branching
